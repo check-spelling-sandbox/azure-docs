@@ -367,7 +367,6 @@ Activityrunid
 activitysource
 activitytriggerattribute
 activitywindows
-activty
 actororiginalusertype
 actoruserid
 actoruseridtype
