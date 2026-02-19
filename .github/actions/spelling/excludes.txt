@@ -83,6 +83,7 @@
 \.xpm$
 \.xz$
 \.zip$
+^/tmp/check-spelling/check-spelling-sandbox/azure-docs/paths-of-checked-files\.txt$
 ^\.github/actions/spelling/
 ^\Q.github/workflows/spelling.yml\E$
 ^\Qarticles/backup/.vscode/settings.json\E$
@@ -112,6 +113,7 @@
 ^articles/governance/management-groups/media/detail_action_small\.PNG$
 ^articles/governance/management-groups/media/move_small_context\.PNG$
 ^articles/governance/resource-graph/reference/supported-tables-resources\.md$
+^articles/hdinsight/hdinsight-release-notes-archive\.md$
 ^articles/iot-hub/media/iot-hub-how-to-order-connection-state-events/action-if-true\.PNG$
 ^articles/operator-service-manager/get-started-with-private-link\.md$
 ^articles/oracle/git$
