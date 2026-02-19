@@ -83,7 +83,6 @@
 \.xpm$
 \.xz$
 \.zip$
-^/tmp/check-spelling/check-spelling-sandbox/azure-docs/paths-of-checked-files\.txt$
 ^\.github/actions/spelling/
 ^\Q.github/workflows/spelling.yml\E$
 ^\Qarticles/backup/.vscode/settings.json\E$
