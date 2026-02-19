@@ -14,9 +14,29 @@
 # uuid:
 \b[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}\b
 
+# hit-count: 4659 file-count: 813
+# version suffix <word>v#
+(?:(?<=[A-Z]{2})V|(?<=[a-z]{2}|[A-Z]{2})v)\d+(?:\b|(?=[a-zA-Z_]))
+
+# hit-count: 3133 file-count: 543
+# IServiceProvider / isAThing
+(?:(?:\b|_|(?<=[a-z]))I|(?:\b|_)(?:nsI|isA))(?=(?:[A-Z][a-z]{2,})+(?:[A-Z\d]|\b))
+
+# hit-count: 2964 file-count: 251
+# lower URL escaped characters
+%[0-9a-f][a-f](?=[a-z]{2,})
+
+# hit-count: 1460 file-count: 268
+# URL escaped characters
+%[0-9A-F][A-F](?=[A-Za-z])
+
 # hit-count: 1097 file-count: 433
 # hex digits including css/html color classes
 (?:[\\0][xX]|\\u\{?|[uU]\+|#x?|%23|&H)[0-9_a-fA-FgGrR]*?[a-fA-FgGrR]{2,}[0-9_a-fA-FgGrR]*(?:[uUlL]{0,3}|[iu]\d+)\b
+
+# hit-count: 668 file-count: 171
+# hex runs
+\b(?=(?:[a-fA-F]{0,2}\d)*[a-fA-F]{3})[0-9a-fA-F]{16,}\b
 
 # hit-count: 637 file-count: 125
 # golang print-f-style functions
@@ -29,6 +49,10 @@
 # hit-count: 344 file-count: 130
 # C# includes
 ^\s*using [^;]+;
+
+# hit-count: 332 file-count: 134
+# microsoft
+\b(?:https?://|)(?:(?:(?:blogs|download\.visualstudio|docs|msdn2?|research)\.|)microsoft|blogs\.msdn)\.co(?:m|\.\w\w)/[-_a-zA-Z0-9()=./%]*
 
 # hit-count: 316 file-count: 76
 # IPv6
@@ -43,6 +67,10 @@
 # hit-count: 296 file-count: 134
 # pom.xml
 <(?:group|artifact)Id>.*?<
+
+# hit-count: 274 file-count: 108
+# base64 encoded content
+([`'"])[-a-zA-Z=;:/0-9+]{3,}=\g{-1}
 
 # hit-count: 214 file-count: 43
 # Non-English
@@ -71,10 +99,22 @@
 # base64 encoded json
 \beyJ[-a-zA-Z=;:/0-9+]+
 
+# hit-count: 117 file-count: 76
+# mailto urls
+mailto:[-a-zA-Z=;:/?%&0-9+@._]{3,}
+
+# hit-count: 93 file-count: 30
+# codepen
+\bcodepen\.io/[\w/]+
+
 # hit-count: 88 file-count: 21
 # kubernetes pod status lists
 # https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#pod-phase
 \w+(?:-\w+)+\s+\d+/\d+\s+(?:Running|Pending|Succeeded|Failed|Unknown)\s+
+
+# hit-count: 76 file-count: 48
+# container images
+image: [-\w./:@]+
 
 # hit-count: 72 file-count: 3
 # iSCSI iqn (approximate regex)
@@ -99,6 +139,10 @@
 # hit-count: 50 file-count: 23
 # Docker images
 ^\s*(?i)FROM\s+\S+:\S+(?:\s+AS\s+\S+|)
+
+# hit-count: 41 file-count: 22
+# regex choice
+\((?:\?:|)[^)|]+(?<! )\|(?!(?:jq|xargs)\b)[^)| ][^)]*\)
 
 # hit-count: 39 file-count: 30
 # tar arguments
@@ -207,9 +251,21 @@ arn:aws:[-/:\w]+
 # configure flags
 .* \| --\w{2,}.*?(?=\w+\s\w+)
 
+# hit-count: 6 file-count: 3
+# hex in url queries
+=[0-9a-fA-F]*?(?:[A-F]{3,}|[a-f]{3,})[0-9a-fA-F]*?&
+
 # hit-count: 2 file-count: 2
 # AWS VPC
 vpc-\w+
+
+# hit-count: 1 file-count: 1
+# GHSA
+GHSA(?:-[0-9a-z]{4}){3}
+
+# hit-count: 1 file-count: 1
+# pki
+-----BEGIN.*-----END
 
 # Questionably acceptable forms of `in to`
 # Personally, I prefer `log into`, but people object

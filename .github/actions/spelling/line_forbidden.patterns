@@ -399,7 +399,7 @@ CLoud
 \bHomeBrew\b
 
 # Should be `ID` (unless it's a flag/property/RCS variable)
-(?<![-\.*$])\bId\b(?![(=:])
+#(?<![-\.*$])\bId\b(?![(=:])
 
 # Should be `in front of`
 \bin from of\b

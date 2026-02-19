@@ -5,6 +5,14 @@
 #   -- i.e. the `\` is ignored and the line isn't treated as a comment
 #   `\` is not otherwise special
 
+# articles/active-directory-b2c/language-customization.md
+<LocalizedResources Id="api.signuporsignin.es">
+</LocalizedStrings>
+
+# articles/active-directory-b2c/language-customization.md
+<LocalizedResources Id="api.localaccountsignup.es">
+</LocalizedStrings>
+
 # Public Keys
 -----BEGIN PUBLIC KEY-----
 -----END PUBLIC KEY-----
