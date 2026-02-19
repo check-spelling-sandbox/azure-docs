@@ -257,7 +257,7 @@ Azure service: [Azure Database for MySQL](/azure/mysql/)
 > | Microsoft.DBforMySQL/flexibleServers/providers/Microsoft.Insights/logDefinitions/read | Gets the available logs for MySQL servers |
 > | Microsoft.DBforMySQL/flexibleServers/providers/Microsoft.Insights/metricDefinitions/read | Return types of metrics that are available for databases |
 > | Microsoft.DBforMySQL/flexibleServers/readerEndpoints/read | Returns the list of reader endpoints for a server or gets the properties for the specified reader endpoint |
-> | Microsoft.DBforMySQL/flexibleServers/readerEndpoints/write | Creates an reader endpoint with the specified parameters or updates an existing reader endpoint |
+> | Microsoft.DBforMySQL/flexibleServers/readerEndpoints/write | Creates a reader endpoint with the specified parameters or updates an existing reader endpoint |
 > | Microsoft.DBforMySQL/flexibleServers/readerEndpoints/delete | Deletes an existing server reader endpoint. |
 > | Microsoft.DBforMySQL/flexibleServers/replicas/read | Returns the list of read replicas for a MySQL server |
 > | Microsoft.DBforMySQL/flexibleServers/supportAcceleratedLogs/read |  |
@@ -1080,8 +1080,8 @@ Azure service: [Azure SQL Database](/azure/azure-sql/database/index), [Azure SQL
 > | Microsoft.Sql/locations/instancePoolOperationResults/read | Gets the result for an instance pool operation |
 > | Microsoft.Sql/locations/ipv6FirewallRulesAzureAsyncOperation/read | Gets the status of a firewall rule operation. |
 > | Microsoft.Sql/locations/ipv6FirewallRulesOperationResults/read | Gets the status of a firewall rule operation. |
-> | Microsoft.Sql/locations/jobAgentAzureAsyncOperation/read | Gets the status of an job agent operation. |
-> | Microsoft.Sql/locations/jobAgentOperationResults/read | Gets the result of an job agent operation. |
+> | Microsoft.Sql/locations/jobAgentAzureAsyncOperation/read | Gets the status of a job agent operation. |
+> | Microsoft.Sql/locations/jobAgentOperationResults/read | Gets the result of a job agent operation. |
 > | Microsoft.Sql/locations/jobAgentPrivateEndpointAzureAsyncOperation/read | Gets the status of a job agent private endpoint operation |
 > | Microsoft.Sql/locations/jobAgentPrivateEndpointOperationResults/read | Gets the result of a job agent private endpoint operation |
 > | Microsoft.Sql/locations/ledgerDigestUploadsAzureAsyncOperation/read | Gets in-progress operations of ledger digest upload settings |

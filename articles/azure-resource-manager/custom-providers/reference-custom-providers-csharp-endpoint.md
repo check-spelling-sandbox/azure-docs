@@ -14,7 +14,7 @@ This article is a basic reference for a custom resource provider C# RESTful endp
 
 ## Azure Functions RESTful endpoint
 
-The following code works with a function app in Azure. To learn how to set up an function app to work with Azure Custom Resource Providers, see [the tutorial on setting up Azure Functions for Azure Custom Resource Providers](./tutorial-custom-providers-function-setup.md).
+The following code works with a function app in Azure. To learn how to set up a function app to work with Azure Custom Resource Providers, see [the tutorial on setting up Azure Functions for Azure Custom Resource Providers](./tutorial-custom-providers-function-setup.md).
 
 ```csharp
 #r "Newtonsoft.Json"

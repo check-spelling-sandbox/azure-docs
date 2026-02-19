@@ -77,7 +77,7 @@ If you want to move VMs to a different availability zone in the same region, [re
 
 > [!NOTE]
 > After selecting the notification, resources appear on the **Across regions** page, in a *Prepare pending* state.
-> - If you want to remove an resource from a move collection, the method for doing that depends on where you are in the move process. [Learn more](remove-move-resources.md).
+> - If you want to remove a resource from a move collection, the method for doing that depends on where you are in the move process. [Learn more](remove-move-resources.md).
 
 ## Resolve dependencies
 

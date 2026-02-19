@@ -44,7 +44,7 @@ The valid type expressions include:
     // an integer type with one allowed value
     type myIntLiteralType = 10
 
-    // an boolean type with one allowed value
+    // a boolean type with one allowed value
     type myBoolLiteralType = true
     ```
 

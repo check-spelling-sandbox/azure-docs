@@ -106,7 +106,7 @@ Azure service: [Cognitive Services](/azure/cognitive-services/)
 > | Microsoft.CognitiveServices/accounts/read | Reads API accounts. |
 > | Microsoft.CognitiveServices/accounts/write | Writes API Accounts. |
 > | Microsoft.CognitiveServices/accounts/delete | Deletes API accounts |
-> | Microsoft.CognitiveServices/accounts/joinPerimeter/action | Allow to join CognitiveServices account to an given perimeter. |
+> | Microsoft.CognitiveServices/accounts/joinPerimeter/action | Allow to join CognitiveServices account to a given perimeter. |
 > | Microsoft.CognitiveServices/accounts/listKeys/action | List keys |
 > | Microsoft.CognitiveServices/accounts/regenerateKey/action | Regenerate Key |
 > | Microsoft.CognitiveServices/accounts/privateEndpointConnectionsApproval/action | Approves Private Endpoint |
@@ -406,7 +406,7 @@ Azure service: [Cognitive Services](/azure/cognitive-services/)
 > | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/indexes/write | This method creates a video index manager task, which can then be used to manipulate AI Search Indexes. |
 > | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/indexes/delete | Deletes a video index manager task independent of the task status. |
 > | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/indexes/read | Retrieves the video index manager task with the specified task id. Retrieves a list of all video index manager tasks.* |
-> | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/videodescriptions/write | This method creates an video description task, which can then be used to generate video insights. |
+> | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/videodescriptions/write | This method creates a video description task, which can then be used to generate video insights. |
 > | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/videodescriptions/delete | Deletes a video description task independent of the task status. |
 > | Microsoft.CognitiveServices/accounts/ComputerVision/videoanalysis/videodescriptions/read | Retrieves the video description task with the specified task id. Retrieves a list of all video description tasks.* |
 > | Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/action | Create image list. |
@@ -511,7 +511,7 @@ Azure service: [Cognitive Services](/azure/cognitive-services/)
 > | Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/read | Get or List Text Categories |
 > | Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/write | Create or replace operation template. |
 > | Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/delete | Resource delete operation template. |
-> | Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/operations/read | Get an custom category operation. |
+> | Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/operations/read | Get a custom category operation. |
 > | Microsoft.CognitiveServices/accounts/ContentSafety/text/incidents/read | Get or List Text Incidents |
 > | Microsoft.CognitiveServices/accounts/ContentSafety/text/incidents/write | Updates a text incident. If the text incident does not exist, a new text incident will be created. |
 > | Microsoft.CognitiveServices/accounts/ContentSafety/text/incidents/delete | Deletes a text incident. |
@@ -714,7 +714,7 @@ Azure service: [Cognitive Services](/azure/cognitive-services/)
 > | Microsoft.CognitiveServices/accounts/CustomVoice/datasets/files/read | Gets the files of the dataset identified by the given ID. |
 > | Microsoft.CognitiveServices/accounts/CustomVoice/datasets/utterances/read | Gets utterances of the specified training set. |
 > | Microsoft.CognitiveServices/accounts/CustomVoice/discount/read | Get the discount for neural model training. |
-> | Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/write | Create or update an voice endpoint. |
+> | Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/write | Create or update a voice endpoint. |
 > | Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/delete | Delete the specified voice endpoint. |
 > | Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/read | Get one or more voice endpoints |
 > | Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/manifest/read | Returns an endpoint manifest which can be used in an on-premise container. |

@@ -22,7 +22,7 @@ In this tutorial, you:
 
 > [!div class="checklist"]
 > * Use the **Water quality monitoring** template to create a water quality monitoring application
-> * Explore and customize an dashboard
+> * Explore and customize a dashboard
 > * Explore a water quality monitoring device template
 > * Explore simulated devices
 > * Explore and configure rules

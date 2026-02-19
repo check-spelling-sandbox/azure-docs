@@ -387,9 +387,9 @@ Can approve private endpoint connections to Azure AI common dependency resources
 > | [Microsoft.Insights](../permissions/monitor.md#microsoftinsights)/privatelinkscopes/privateLinkResources/read | Read a private link resource |
 > | [Microsoft.Insights](../permissions/monitor.md#microsoftinsights)/privatelinkscopes/read | Read a private link scope |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateLinkServices/privateEndpointConnectionsApproval/action | Approve or reject PrivateEndpoint connection on PrivateLinkService |
-> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateLinkServices/privateEndpointConnections/read | Gets an private endpoint connection definition. |
+> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateLinkServices/privateEndpointConnections/read | Gets a private endpoint connection definition. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateLinkServices/privateEndpointConnections/write | Creates a new private endpoint connection, or updates an existing private endpoint connection. |
-> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateLinkServices/read | Gets an private link service resource. |
+> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateLinkServices/read | Gets a private link service resource. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/applicationGateways/privateEndpointConnections/read | Gets Application Gateway PrivateEndpoint Connections |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/applicationGateways/privateEndpointConnections/write | Updates Application Gateway PrivateEndpoint Connection |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/applicationGateways/privateLinkResources/read | Gets ApplicationGateway PrivateLink Resources |

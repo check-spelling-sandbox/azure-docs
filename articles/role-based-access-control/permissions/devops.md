@@ -100,9 +100,9 @@ Azure service: [Azure Deployment Environments](/azure/deployment-environments/ov
 > | Microsoft.DevCenter/devcenters/images/read | Lists images for a devcenter. |
 > | Microsoft.DevCenter/devcenters/projectPolicies/read | Lists all project policies in the dev center |
 > | Microsoft.DevCenter/devcenters/projectPolicies/read | Gets a specific project policy. |
-> | Microsoft.DevCenter/devcenters/projectPolicies/write | Creates or updates an project policy. |
-> | Microsoft.DevCenter/devcenters/projectPolicies/delete | Deletes an project policy. |
-> | Microsoft.DevCenter/devcenters/projectPolicies/write | Partially updates an project policy. |
+> | Microsoft.DevCenter/devcenters/projectPolicies/write | Creates or updates a project policy. |
+> | Microsoft.DevCenter/devcenters/projectPolicies/delete | Deletes a project policy. |
+> | Microsoft.DevCenter/devcenters/projectPolicies/write | Partially updates a project policy. |
 > | Microsoft.DevCenter/Locations/OperationStatuses/read | read OperationStatuses |
 > | Microsoft.DevCenter/Locations/OperationStatuses/write | write OperationStatuses |
 > | Microsoft.DevCenter/locations/usages/read | Lists the current usages and limits in this location for the provided subscription. |

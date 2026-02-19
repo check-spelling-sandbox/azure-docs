@@ -400,7 +400,7 @@ Azure service: [Cost Management + Billing](/azure/cost-management-billing/)
 > | Microsoft.Billing/billingAccounts/billingProfiles/policies/write | Updates the policies for a billing profile. This operation is supported only for billing accounts with agreement type Microsoft Customer Agreement. |
 > | Microsoft.Billing/billingAccounts/billingProfiles/pricesheet/download/action |  |
 > | Microsoft.Billing/billingAccounts/billingProfiles/products/read | Lists the products for a billing profile. These don't include products billed based on usage. The operation is supported for billing accounts with agreement type Microsoft Customer Agreement or Microsoft Partner Agreement. |
-> | Microsoft.Billing/billingAccounts/billingProfiles/resolveBillingRoleAssignments/write | Lists the role assignments for the caller on an billing profile while fetching user info for each role assignment. The operation is supported for billing accounts with agreement type Microsoft Partner Agreement or Microsoft Customer Agreement. |
+> | Microsoft.Billing/billingAccounts/billingProfiles/resolveBillingRoleAssignments/write | Lists the role assignments for the caller on a billing profile while fetching user info for each role assignment. The operation is supported for billing accounts with agreement type Microsoft Partner Agreement or Microsoft Customer Agreement. |
 > | Microsoft.Billing/billingAccounts/billingProfiles/transactions/read | Lists the billed or unbilled transactions by billing profile name for given start and end date.<br>Transactions include purchases, refunds and Azure usage charges.<br>Unbilled transactions are listed under pending invoice Id and do not include tax.<br>Tax is added to the amount once an invoice is generated. |
 > | Microsoft.Billing/billingAccounts/billingProfiles/updateInvoiceRecipientContacts/write | Updates invoice recipient contacts for a billing profile. |
 > | Microsoft.Billing/billingAccounts/billingProfiles/validateDeleteBillingProfileEligibility/write |  |
@@ -1261,7 +1261,7 @@ Azure service: [Azure Resource Manager](/azure/azure-resource-manager/)
 > | Microsoft.Resources/changes/read | Gets or lists changes |
 > | Microsoft.Resources/checkPolicyCompliance/read | Check the compliance status of a given resource against resource policies. |
 > | Microsoft.Resources/deployments/read | Gets or lists deployments. |
-> | Microsoft.Resources/deployments/write | Creates or updates an deployment. |
+> | Microsoft.Resources/deployments/write | Creates or updates a deployment. |
 > | Microsoft.Resources/deployments/delete | Deletes a deployment. |
 > | Microsoft.Resources/deployments/cancel/action | Cancels a deployment. |
 > | Microsoft.Resources/deployments/validate/action | Validates a deployment. |
@@ -1300,7 +1300,7 @@ Azure service: [Azure Resource Manager](/azure/azure-resource-manager/)
 > | Microsoft.Resources/subscriptions/resourceGroups/moveResources/action | Moves resources from one resource group to another. |
 > | Microsoft.Resources/subscriptions/resourceGroups/validateMoveResources/action | Validate move of resources from one resource group to another. |
 > | Microsoft.Resources/subscriptions/resourcegroups/deployments/read | Gets or lists deployments. |
-> | Microsoft.Resources/subscriptions/resourcegroups/deployments/write | Creates or updates an deployment. |
+> | Microsoft.Resources/subscriptions/resourcegroups/deployments/write | Creates or updates a deployment. |
 > | Microsoft.Resources/subscriptions/resourcegroups/deployments/operations/read | Gets or lists deployment operations. |
 > | Microsoft.Resources/subscriptions/resourcegroups/deployments/operationstatuses/read | Gets or lists deployment operation statuses. |
 > | Microsoft.Resources/subscriptions/resourcegroups/resources/read | Gets the resources for the resource group. |

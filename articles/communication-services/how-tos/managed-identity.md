@@ -106,7 +106,7 @@ public async Task CreateResourceWithSystemAssignedManagedIdentity()
 
     //Create Resource group
     ResourceGroupCollection rgCollection = subscription.GetResourceGroups();
-    // With the collection, we can create a new resource group with an specific name
+    // With the collection, we can create a new resource group with a specific name
     string rgName = "myRgName";
     AzureLocation location = AzureLocation.WestUS2;
     ArmOperation<ResourceGroupResource> lro = await rgCollection.CreateOrUpdateAsync(WaitUntil.Completed, rgName, new ResourceGroupData(location));

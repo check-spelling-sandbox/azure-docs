@@ -23,7 +23,7 @@ In a star network such as the one shown in the diagram below, every host is conn
 
 ## Sample: Multi-layer, multi-tenant network
 
-The following diagram is a general abstraction of a multilayer, multi-tenant network, with an expansive cybersecurity ecosystem typically operated by an security operations center (SOC) and managed security service provider (MSSP). Defender for IoT sensors are typically deployed in layers 0 to 3 of the OSI model.
+The following diagram is a general abstraction of a multilayer, multi-tenant network, with an expansive cybersecurity ecosystem typically operated by a security operations center (SOC) and managed security service provider (MSSP). Defender for IoT sensors are typically deployed in layers 0 to 3 of the OSI model.
 
 :::image type="content" source="../media/how-to-set-up-your-network/osi-model.png" alt-text="Diagram of the OSI model." lightbox="../media/how-to-set-up-your-network/osi-model.png" border="false":::
 

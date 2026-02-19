@@ -168,7 +168,7 @@ Perform the following steps in the Azure portal to order a device.
 
     If you want to create a new key, select **Create new**. You must use an RSA key. The size can be 2048 or greater. Enter a name for your new key, accept the other defaults, and select **Create**.
 
-      ![Screen capture of the New Key options when creating an new Azure Key Vault key to provide a customer-managed key in the Data Box export order's Security tab.](./media/data-box-deploy-export-ordered/customer-managed-key-07.png)
+      ![Screen capture of the New Key options when creating a new Azure Key Vault key to provide a customer-managed key in the Data Box export order's Security tab.](./media/data-box-deploy-export-ordered/customer-managed-key-07.png)
 
       You'll be notified when the key has been created in your key vault.
 

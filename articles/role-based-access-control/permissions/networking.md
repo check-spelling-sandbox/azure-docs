@@ -751,9 +751,9 @@ Azure service: [Application Gateway](/azure/application-gateway/), [Azure Bastio
 > | Microsoft.Network/locations/operationResults/read | Gets operation result of an async POST or DELETE operation |
 > | Microsoft.Network/locations/operations/read | Gets operation resource that represents status of an asynchronous operation |
 > | Microsoft.Network/locations/perimeterAssociableResourceTypes/read | Gets Network Security Perimeter Associable Resources |
-> | Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/read | Gets an private endpoint connection proxy resource. |
+> | Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/read | Gets a private endpoint connection proxy resource. |
 > | Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/write | Creates a new private endpoint connection proxy, or updates an existing private endpoint connection proxy. |
-> | Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/delete | Deletes an private endpoint connection proxy resource. |
+> | Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/delete | Deletes a private endpoint connection proxy resource. |
 > | Microsoft.Network/locations/publicIPAddresses/cleanupDdppReference/action | Cleanup DDPP reference on linked PublicIP upon DDPP subscription delete |
 > | Microsoft.Network/locations/serviceTagDetails/read | GetServiceTagDetails |
 > | Microsoft.Network/locations/serviceTags/read | Get Service Tags |
@@ -1077,27 +1077,27 @@ Azure service: [Application Gateway](/azure/application-gateway/), [Azure Bastio
 > | Microsoft.Network/privateEndpointRedirectMaps/read | Gets a Private Endpoint RedirectMap |
 > | Microsoft.Network/privateEndpointRedirectMaps/write | Creates Private Endpoint RedirectMap Or Updates An Existing Private Endpoint RedirectMap |
 > | Microsoft.Network/privateEndpoints/pushPropertiesToResource/action | Operation to push private endpoint property updates from NRP client |
-> | Microsoft.Network/privateEndpoints/read | Gets an private endpoint resource. |
+> | Microsoft.Network/privateEndpoints/read | Gets a private endpoint resource. |
 > | Microsoft.Network/privateEndpoints/write | Creates a new private endpoint, or updates an existing private endpoint. |
-> | Microsoft.Network/privateEndpoints/delete | Deletes an private endpoint resource. |
+> | Microsoft.Network/privateEndpoints/delete | Deletes a private endpoint resource. |
 > | Microsoft.Network/privateEndpoints/privateDnsZoneGroups/read | Gets a Private DNS Zone Group |
 > | Microsoft.Network/privateEndpoints/privateDnsZoneGroups/write | Puts a Private DNS Zone Group |
 > | Microsoft.Network/privateEndpoints/privateDnsZoneGroups/delete | Deletes a Private DNS Zone Group |
 > | Microsoft.Network/privateEndpoints/privateLinkServiceProxies/read | Gets a private link service proxy resource. |
 > | Microsoft.Network/privateEndpoints/privateLinkServiceProxies/write | Creates a new private link service proxy, or updates an existing private link service proxy. |
-> | Microsoft.Network/privateEndpoints/privateLinkServiceProxies/delete | Deletes an private link service proxy resource. |
+> | Microsoft.Network/privateEndpoints/privateLinkServiceProxies/delete | Deletes a private link service proxy resource. |
 > | Microsoft.Network/privateEndpoints/providers/Microsoft.Insights/metricDefinitions/read | Gets the available metrics for Private Endpoint |
-> | Microsoft.Network/privateLinkServices/read | Gets an private link service resource. |
+> | Microsoft.Network/privateLinkServices/read | Gets a private link service resource. |
 > | Microsoft.Network/privateLinkServices/write | Creates a new private link service, or updates an existing private link service. |
-> | Microsoft.Network/privateLinkServices/delete | Deletes an private link service resource. |
+> | Microsoft.Network/privateLinkServices/delete | Deletes a private link service resource. |
 > | Microsoft.Network/privateLinkServices/notifyPrivateEndpointMove/action | Notifies a connected Private Link Service of Private Endpoint move |
 > | Microsoft.Network/privateLinkServices/PrivateEndpointConnectionsApproval/action | Approve or reject PrivateEndpoint connection on PrivateLinkService |
-> | Microsoft.Network/privateLinkServices/privateEndpointConnectionProxies/read | Gets an private endpoint connection proxy resource. |
+> | Microsoft.Network/privateLinkServices/privateEndpointConnectionProxies/read | Gets a private endpoint connection proxy resource. |
 > | Microsoft.Network/privateLinkServices/privateEndpointConnectionProxies/write | Creates a new private endpoint connection proxy, or updates an existing private endpoint connection proxy. |
-> | Microsoft.Network/privateLinkServices/privateEndpointConnectionProxies/delete | Deletes an private endpoint connection proxy resource. |
-> | Microsoft.Network/privateLinkServices/privateEndpointConnections/read | Gets an private endpoint connection definition. |
+> | Microsoft.Network/privateLinkServices/privateEndpointConnectionProxies/delete | Deletes a private endpoint connection proxy resource. |
+> | Microsoft.Network/privateLinkServices/privateEndpointConnections/read | Gets a private endpoint connection definition. |
 > | Microsoft.Network/privateLinkServices/privateEndpointConnections/write | Creates a new private endpoint connection, or updates an existing private endpoint connection. |
-> | Microsoft.Network/privateLinkServices/privateEndpointConnections/delete | Deletes an private endpoint connection. |
+> | Microsoft.Network/privateLinkServices/privateEndpointConnections/delete | Deletes a private endpoint connection. |
 > | Microsoft.Network/privateLinkServices/providers/Microsoft.Insights/metricDefinitions/read | Gets the available metrics for Private Link Service |
 > | Microsoft.Network/publicIPAddresses/read | Gets a public IP address definition. |
 > | Microsoft.Network/publicIPAddresses/write | Creates a public IP address or updates an existing public IP address.  |

@@ -64,7 +64,7 @@ Azure HDInsight doesn't store customer data. The primary means of storage for a 
 You can validate that HDInsight is properly configured to store data in a single region by ensuring that the storage account associated with your HDInsight is LRS or another storage option mentioned on [Azure global infrastructure site](https://datacenters.microsoft.com/globe/explore/).
 
 >[!NOTE]
-> Upgrading the primary or secondary storage account of a running cluster with Azure Data Lake Storage Gen2 capabilities is not supported. To change the storage type of an existing HDInsight cluster to Data Lake Storage Gen2, you will need to recreate the cluster and select an hierarchical namespace enabled storage account.
+> Upgrading the primary or secondary storage account of a running cluster with Azure Data Lake Storage Gen2 capabilities is not supported. To change the storage type of an existing HDInsight cluster to Data Lake Storage Gen2, you will need to recreate the cluster and select a hierarchical namespace enabled storage account.
  
 ## Next steps
 

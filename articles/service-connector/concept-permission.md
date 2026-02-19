@@ -315,7 +315,7 @@ Service Connector may need to grant permissions to your identity if a connection
 > |`Microsoft.Network/publicIPAddresses/read`|Gets a public IP address definition.|
 > |`Microsoft.Network/virtualNetworks/subnets/read`|Gets a virtual network subnet definition|
 > |`Microsoft.Network/virtualNetworks/subnets/write`|Creates a virtual network subnet or updates an existing virtual network subnet|
-> |`Microsoft.Network/privateEndpoints/read`|Gets an private endpoint resource.|
+> |`Microsoft.Network/privateEndpoints/read`|Gets a private endpoint resource.|
 > |`Microsoft.Network/virtualNetworks/subnets/joinViaServiceEndpoint/action`|Joins resource such as storage account or SQL database to a subnet. Not alertable.|
 > |`Microsoft.Network/networkSecurityGroups/join/action`|Joins a network security group. Not Alertable.|
 > |`Microsoft.Network/serviceEndpointPolicies/join/action`|Joins a Service Endpoint Policy. Not alertable.|

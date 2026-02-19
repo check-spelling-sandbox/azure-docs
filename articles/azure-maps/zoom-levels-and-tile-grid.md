@@ -500,7 +500,7 @@ namespace AzureMaps
         /// <param name="padding">Width in pixels to use to create a buffer around the map. This is to keep markers from being cut off on the edge. Default: 0</param>
         /// <param name="tileSize">The size of the tiles in the tile pyramid. Default: 512</param>
         /// <param name="maxZoom">Optional maximum zoom level to return. Useful when the bounding box represents a very small area. Default: 24</param>
-        /// <param name="allowFloatZoom">Specifies if the returned zoom level should be a float or rounded down to an whole integer zoom level. Default: true</param>
+        /// <param name="allowFloatZoom">Specifies if the returned zoom level should be a float or rounded down to a whole integer zoom level. Default: true</param>
         public static void BestMapView(BoundingBox bounds, double mapWidth, double mapHeight, out double centerLat, out double centerLon, out double zoom, int padding = 0, int tileSize = 512, double maxZoom = 24, bool allowFloatZoom = true)
         {
         	centerLat = 0;
@@ -899,7 +899,7 @@ module AzureMaps {
          * @param padding Width in pixels to use to create a buffer around the map. This is to keep markers from being cut off on the edge.
          * @param tileSize The size of the tiles in the tile pyramid.
          * @param maxZoom Optional maximum zoom level to return. Useful when the bounding box represents a very small area.
-         * @param allowFloatZoom Specifies if the returned zoom level should be a float or rounded down to an whole integer zoom level. 
+         * @param allowFloatZoom Specifies if the returned zoom level should be a float or rounded down to a whole integer zoom level. 
          * @returns The center and zoom level to best position the map view over the provided bounding box.
          */
         public static BestMapView(bounds: number, mapWidth: number, mapHeight: number, padding: number = 0, tileSize: number = 512, maxZoom: number = 24, allowFloatZoom: boolean = true): { center: number[], zoom: number } {

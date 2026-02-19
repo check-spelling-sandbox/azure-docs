@@ -91,7 +91,7 @@ To select the resources you want to move, follow these steps:
 > [!NOTE]
 > - The SQL Server is now in a *Manual assignment pending* state.
 > - Other added resources are in a *Prepare pending* state.
-> - If you want to remove an resource from a move collection, the method for doing that depends on where you are in the move process. [Learn more](remove-move-resources.md).
+> - If you want to remove a resource from a move collection, the method for doing that depends on where you are in the move process. [Learn more](remove-move-resources.md).
 
 ## Resolve dependencies
 

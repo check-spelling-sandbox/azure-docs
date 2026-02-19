@@ -9,7 +9,7 @@ ms.custom:
   - ignite-2023
 ms.date: 05/09/2025
 
-#CustomerIntent: As an developer, I want understand how to develop application that persist data between sessions using the state store.
+#CustomerIntent: As a developer, I want understand how to develop application that persist data between sessions using the state store.
 ---
 
 # Data persistence in the MQTT broker state store

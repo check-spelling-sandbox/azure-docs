@@ -473,7 +473,7 @@ This role provides read and write access to all capabilities of Azure Center for
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/outboundRules/read | Gets a load balancer outbound rule definition |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/virtualMachines/read | Gets references to all the virtual machines under a load balancer |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/providers/Microsoft.Insights/metricDefinitions/read | Gets the available metrics for Load Balancer |
-> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/read | Gets an private endpoint resource. |
+> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/read | Gets a private endpoint resource. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/networkSecurityGroups/join/action | Joins a network security group. Not Alertable. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/routeTables/join/action | Joins a route table. Not Alertable. |
 > | [Microsoft.Storage](../permissions/storage.md#microsoftstorage)/storageAccounts/read | Returns the list of storage accounts or gets the properties for the specified storage account. |
@@ -620,7 +620,7 @@ This role provides read access to all capabilities of Azure Center for SAP solut
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/outboundRules/read | Gets a load balancer outbound rule definition |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/virtualMachines/read | Gets references to all the virtual machines under a load balancer |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/providers/Microsoft.Insights/metricDefinitions/read | Gets the available metrics for Load Balancer |
-> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/read | Gets an private endpoint resource. |
+> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/read | Gets a private endpoint resource. |
 > | [Microsoft.Storage](../permissions/storage.md#microsoftstorage)/storageAccounts/read | Returns the list of storage accounts or gets the properties for the specified storage account. |
 > | [Microsoft.Storage](../permissions/storage.md#microsoftstorage)/storageAccounts/blobServices/read | Returns blob service properties or statistics |
 > | [Microsoft.Storage](../permissions/storage.md#microsoftstorage)/storageAccounts/blobServices/containers/read | Returns list of containers |
@@ -739,7 +739,7 @@ Azure Center for SAP solutions service role - This role is intended to be used f
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/virtualNetworks/subnets/virtualMachines/read | Gets references to all the virtual machines in a virtual network subnet |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/virtualNetworks/virtualMachines/read | Gets references to all the virtual machines in a virtual network |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/networkInterfaces/ipconfigurations/join/action | Joins a Network Interface IP Configuration. Not alertable. |
-> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/read | Gets an private endpoint resource. |
+> | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/read | Gets a private endpoint resource. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/privateEndpoints/write | Creates a new private endpoint, or updates an existing private endpoint. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/networkInterfaces/join/action | Joins a Virtual Machine to a network interface. Not Alertable. |
 > | [Microsoft.Network](../permissions/networking.md#microsoftnetwork)/loadBalancers/backendAddressPools/join/action | Joins a load balancer backend address pool. Not Alertable. |

@@ -14,7 +14,7 @@ ms.subservice: calling
 
 # CreateView timeout
 When the calling SDK expects to receive video frames but there are no incoming video frames,
-the SDK detects this issue and throws an createView timeout error.
+the SDK detects this issue and throws a createView timeout error.
 
 This error is unexpected from SDK's perspective. This error indicates a discrepancy between signaling and media transport.
 ## How to detect using SDK

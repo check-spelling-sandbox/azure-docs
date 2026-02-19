@@ -6,7 +6,7 @@ ms.service: azure-load-balancer
 ms.author: mbender
 ms.topic: concept-article
 ms.date: 01/29/2026
-# Customer intent: As an cloud engineer with Basic Load Balancer services, I need guidance and direction on migrating my workloads off Basic to Standard SKUs
+# Customer intent: As a cloud engineer with Basic Load Balancer services, I need guidance and direction on migrating my workloads off Basic to Standard SKUs
 ---
 
 # Upgrading from Basic Load Balancer - Guidance

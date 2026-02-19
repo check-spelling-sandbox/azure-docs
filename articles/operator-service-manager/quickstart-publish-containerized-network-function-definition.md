@@ -30,7 +30,7 @@ Create an input file for publishing the Network Function Definition. Execute the
 az aosm nfd generate-config --definition-type cnf
 ```
 
-Execution of the preceding command generates an cnf-input.jsonc file.
+Execution of the preceding command generates a cnf-input.jsonc file.
 
 > [!NOTE]
 > Edit the cnf-input.jsonc file. Replace it with the values shown in the following sample. Save the file as **input-cnf-nfd.jsonc**.
