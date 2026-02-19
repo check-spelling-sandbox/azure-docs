@@ -271,7 +271,6 @@ acon
 acontosolab
 acosprep
 acounts
-ACPI
 acpid
 acpr
 acquireasync
@@ -367,6 +366,7 @@ Activityrunid
 activitysource
 activitytriggerattribute
 activitywindows
+activty
 actororiginalusertype
 actoruserid
 actoruseridtype
@@ -561,7 +561,6 @@ adschema
 adserver
 adserviceaccount
 adsi
-ADSL
 ADSOs
 adtb
 adu
@@ -772,7 +771,6 @@ aisearch
 aiservices
 aishield
 aisysteminventories
-aiter
 AITTLTIn
 AIWo
 ajagadish
@@ -1253,7 +1251,6 @@ appconfigurationprovider
 appcontainer
 appcreate
 appdynamics
-appendable
 appendasync
 appendblob
 appendblobclient
@@ -1591,7 +1588,6 @@ asimprocesseventlogs
 asimregistryeventlogs
 asimusermanagementactivitylogs
 asimwebsessionlogs
-asio
 ASIP
 asirveda
 asjob
@@ -1634,7 +1630,6 @@ asrreplicateditems
 asrrg
 asrseeddisk
 asrspfarm
-Asrv
 asrvhdfile
 ASRVM
 assecurestring
@@ -1910,7 +1905,6 @@ autoregistration
 Autoremediation
 autorenew
 autorenewal
-autoreset
 Autoresizing
 autoresolve
 autoresolved
@@ -3190,7 +3184,6 @@ Bastionsub
 bastsubnet
 BASXML
 batamig
-batchable
 batchaccount
 batchaccountcollection
 batchaccountname
@@ -3231,7 +3224,6 @@ batchpublicnetworkaccess
 batchservice
 batchserviceclient
 batchsharedkeycredentials
-batchsize
 batchsyntheses
 batchtask
 batchtaskconstraints
@@ -3484,7 +3476,6 @@ bicepconfig
 bicepfilename
 bicepparam
 bicepqs
-Bics
 Bidabadi
 bidrectional
 bidx
@@ -3497,7 +3488,6 @@ BIGNUMERIC
 bigquery
 bigquerydatapolicy
 bigquerydatatransfer
-bigserial
 Billedseparately
 billingaccounts
 billingaccountusagedetailslist
@@ -3527,7 +3517,6 @@ binfmt
 bingbot
 bingmaps
 bingsearch
-binhex
 binluwang
 Binn
 binoperators
@@ -3810,8 +3799,6 @@ botnet
 botprotect
 botservice
 bottlenecked
-bottomleft
-bottomright
 boundingbox
 Bouvet
 boxzoomend
@@ -4221,7 +4208,6 @@ CBSA
 CBSSB
 cbt
 CBUI
-Cbw
 cca
 ccaa
 ccaldera
@@ -4598,7 +4584,6 @@ cik
 cim
 CIMOM
 CIMTYP
-cin
 cindygross
 Cinia
 cio
@@ -4631,7 +4616,6 @@ CJC
 cjek
 cji
 cjit
-cjk
 Cjqm
 ckaw
 Ckkog
@@ -4673,8 +4657,6 @@ Clasyvm
 claude
 clausjor
 clbackup
-CLC
-cld
 cleanroom
 cleantextfunctionstorageacct
 cleanuptestmigration
@@ -4727,7 +4709,6 @@ clientversion
 clientvm
 cliextensions
 climatecomponent
-clinit
 clionabolger
 Clipperton
 clipstream
@@ -4863,7 +4844,6 @@ CLUYy
 CLW
 cmap
 cmb
-cmc
 cmdb
 cmdemo
 cmdkey
@@ -4885,7 +4865,6 @@ CMMMPHk
 Cmnd
 CMode
 Cmprss
-Cmps
 cmpx
 CMRB
 cmroute
@@ -4960,7 +4939,6 @@ collectd
 collectioncontent
 collectionname
 collecttop
-colls
 Colm
 Cologix
 colorbar
@@ -5015,9 +4993,7 @@ compareclaimtovalue
 comparesummary
 compasscontrol
 compatibilitylevel
-compdef
 compilationjobs
-compinit
 Compl
 completeasync
 completedmaps
@@ -5503,7 +5479,6 @@ countryorregion
 countunique
 COUNTYNAME
 coustomer
-cout
 COuy
 covery
 Coveware
@@ -5534,7 +5509,6 @@ cqd
 Cqe
 cql
 Cqnq
-CQO
 cqrs
 Cqwol
 Cqws
@@ -5672,7 +5646,6 @@ Credentialsfile
 credsfilename
 credspath
 credtest
-cref
 CREMAS
 Creo
 CRequest
@@ -5986,8 +5959,8 @@ Czechia
 Czlei
 CZR
 Czs
-daa
 daal
+DAAS
 daberry
 dac
 dacarte
@@ -6241,7 +6214,6 @@ datetimeadd
 datetimedropdown
 datetimefromepoch
 datetimefromparts
-datetimeoffset
 datetimeoffsetfromparts
 datetimestamp
 datetimetoepoch
@@ -6353,7 +6325,7 @@ DBTABLOG
 dbtest
 DBTo
 dbtype
-dbu
+DBU
 dbug
 dbuser
 DBusername
@@ -6459,7 +6431,6 @@ deadlettersource
 deallocatenodes
 deamon
 dearandyxu
-dearmor
 DEast
 deauthorization
 debatch
@@ -7368,7 +7339,6 @@ dpf
 dpgu
 Dpgy
 Dph
-dpi
 dpia
 dpid
 DPIUNAWARE
@@ -7464,7 +7434,6 @@ driversicons
 driveset
 DRjob
 drjones
-DRL
 drlw
 drm
 DRmubfp
@@ -7657,8 +7626,8 @@ DWAS
 dwayne
 DWb
 Dwg
-dwh
 DWhash
+DWHs
 DWKv
 DWs
 dwu
@@ -8099,7 +8068,6 @@ enddate
 ENDENTRY
 endip
 endkey
-endl
 endofday
 endoflife
 endofmonth
@@ -8255,7 +8223,6 @@ ERdxk
 ERECOMMENDATION
 erecycle
 ereilebr
-erfc
 ERgatewayinhub
 ergw
 erhopf
@@ -8836,7 +8803,6 @@ fcm
 fcmtutorial
 FCn
 fcontext
-FCR
 fda
 fdad
 fdb
@@ -8901,8 +8867,6 @@ fetchxml
 ffb
 ffd
 FFEs
-FFFE
-FFFF
 fffffff
 FFFFFFFZ
 ffi
@@ -9134,7 +9098,6 @@ flowspernic
 FLP
 Flq
 FLR
-flt
 Fltmc
 FLTP
 fluentbit
@@ -9150,7 +9113,6 @@ flushcontext
 flushdns
 fluxconfigurations
 fluxdelay
-Fma
 fmi
 FMj
 FMP
@@ -9184,7 +9146,6 @@ foregroundcolor
 forescout
 forestsummary
 forgotpassword
-forkjoin
 formance
 formatdatetime
 formatdeadletterpath
@@ -9305,7 +9266,6 @@ fshare
 fsid
 fsiddiqui
 fsinfo
-FSL
 fslogix
 fsma
 FSMO
@@ -9570,7 +9530,6 @@ generatevpnclientpackage
 generatevpnprofile
 Genereate
 genericity
-Genix
 genkey
 genli
 genlin
@@ -9645,7 +9604,6 @@ getarrayelement
 getarraylength
 getascii
 getasync
-getattribute
 getauthdata
 getauthfollowers
 getauthorizationrule
@@ -9833,7 +9791,6 @@ getwebcontent
 getwmiobjectaccessdenied
 getxattr
 getyear
-GEu
 gewc
 gexec
 GFho
@@ -10059,7 +10016,6 @@ Grootenboer
 Grou
 groundfloor
 GROUOP
-groupby
 groupcall
 groupcontoso
 Groupe
@@ -10274,7 +10230,6 @@ harules
 HASAP
 Hashap
 hashbytes
-Hashcode
 hasheaders
 hashfunction
 hashicorp
@@ -10528,7 +10483,6 @@ hidd
 hidx
 hier
 hierarchicalentities
-hierarchyid
 hierarchysettings
 highcharter
 Highcharts
@@ -11281,7 +11235,6 @@ IMPA
 impactreportingresources
 imperva
 IMPHASH
-implicits
 Importances
 importantfield
 importcert
@@ -11790,7 +11743,6 @@ iserviceoperationstriggerprovider
 isessionclient
 iseval
 iseven
-isfinite
 isfirst
 isfolder
 isfuzzy
@@ -11801,7 +11753,6 @@ ishostnameavailable
 isi
 isid
 Isilon
-isinf
 isint
 isit
 Isjnh
@@ -11809,7 +11760,6 @@ isjson
 isks
 islengthrange
 isletterordigit
-isnan
 isnoc
 isnotempty
 isnotnull
@@ -11999,7 +11949,6 @@ jaxwb
 jaylansdaal
 jaysoni
 JBarnett
-jbe
 jbeauregardb
 JBG
 JBOD
@@ -12162,7 +12111,6 @@ JNmg
 JNR
 Jnu
 Jnun
-Jnz
 joannapea
 joanpo
 jobaccounts
@@ -12553,7 +12501,6 @@ keypicker
 keyprovider
 keyreleasepolicy
 keyresolver
-keyrings
 keyrotation
 keyrotationpolicies
 keyrule
@@ -12596,7 +12543,6 @@ Khendr'a
 khg
 khive
 khkfri
-KHTML
 kianaharris
 kib
 kibana
@@ -12641,7 +12587,6 @@ klq
 kmadnani
 kmdba
 KMono
-kmp
 kmsclientkeys
 kmsi
 KMZ
@@ -12970,14 +12915,12 @@ ldapsearches
 ldapsuccessfulbinds
 ldapuser
 ldconfig
-ldf
 Ldgf
 ldh
 ldjson
 ldma
 LDOIt
 ldp
-lds
 ldw
 leaderboard
 leadingandtrailing
@@ -13031,7 +12974,6 @@ LFI
 Lfiles
 lfk
 LFP
-lfs
 LFSM
 lft
 lfu
@@ -13354,7 +13296,6 @@ LOCKT
 LOCKTOKEN
 LOCKU
 LOCKWAIT
-LOCL
 locustfile
 logalerts
 loganalytics
@@ -13489,10 +13430,8 @@ lshw
 lsinitrd
 Lsk
 lsmagic
-lsn
 lso
 lsp
-lss
 LSTC
 lsusb
 Lsv
@@ -13525,7 +13464,6 @@ LTSB
 ltsc
 LTSR
 LTSs
-LTU
 ltwgs
 LTZ
 Luc
@@ -13601,7 +13539,6 @@ MABSACKUP
 MABSBACKUP
 MABSDBBACKUP
 MABSSERVERNAME
-macaddr
 macaddress
 macalg
 macapara
@@ -14491,7 +14428,6 @@ mikehang
 mikeparker
 MILC
 milkcan
-milli
 millicores
 millicpu
 millidarcy
@@ -14578,7 +14514,6 @@ mkhribech
 mkinitrd
 Mkj
 mkluck
-Mkmk
 mkmsft
 MKn
 MKneqp
@@ -14755,9 +14690,7 @@ mpe
 mpedit
 mpegurl
 MPHq
-mpi
 MPIC
-mpich
 mpiexec
 mpihg
 mpio
@@ -14997,7 +14930,6 @@ MTTD
 MTUs
 MTUy
 MTVl
-mtype
 mua
 MUaao
 mubatra
@@ -15777,7 +15709,6 @@ nasindam
 nasoni
 nasr
 nasuni
-NAT'ed
 nat
 nataraj
 natekimball
@@ -16255,7 +16186,6 @@ Nlint
 nll
 nload
 nlockmgr
-nlohmann
 NLSTEXT
 nltest
 nlu
@@ -16279,7 +16209,6 @@ Nmv
 NNhx
 nnlfed
 NNMMZk
-nnn
 NNNN
 nnnnnnn
 Nnp
@@ -16308,8 +16237,6 @@ NOCONFIG
 noconnection
 NOCOUNT
 NOcq
-NOCREATEDB
-NOCREATEROLE
 NOCs
 nocto
 nodeapp
@@ -16338,14 +16265,12 @@ nodepoolx
 nodeport
 noderef
 nodeselector
-nodeset
 nodetypes
 nodev
 nodiratime
 noe
 noelleli
 noeviction
-noexec
 NOEXPAND
 nofail
 NOFIREWALL
@@ -16361,7 +16286,6 @@ noidentity
 noinvoice
 nok
 nokeys
-Nokia
 nologin
 nologo
 NOlp
@@ -16438,7 +16362,6 @@ nonimpacting
 nonindex
 Nonini
 noninteractively
-nonisolated
 nonmanaged
 nonmatched
 nonmodel
@@ -16479,7 +16402,6 @@ nonroot
 nonroutable
 nonrunning
 nonscalar
-nonsecure
 nonsecured
 nonserver
 nonsession
@@ -16551,7 +16473,6 @@ nostatic
 nostore
 nostrictsync
 nosuid
-NOSUPERUSER
 NOSUPP
 nosymlink
 notack
@@ -16646,7 +16567,6 @@ nseckom
 nsend
 NService
 nservicebus
-nset
 nsg
 nsgconfig
 NSGID
@@ -16679,7 +16599,6 @@ NSUTF
 nsx
 NSXML
 nsxt
-NTA
 ntables
 ntainers
 ntaip
@@ -16694,7 +16613,6 @@ NTDS
 ntdsutil
 ntegralinc
 nteract
-ntext
 ntfs
 ntfsfix
 ntfsinfo
@@ -16727,7 +16645,6 @@ Nuage
 Nubmf
 nuc
 NUh
-nullability
 nullableequals
 NULLID
 nullok
@@ -16747,7 +16664,6 @@ numofdays
 numofdistinct
 numofunique
 numpat
-numpy
 numsessions
 numsub
 Nunavut
@@ -16804,7 +16720,7 @@ nwithin
 NWJL
 NWmodule
 nwokolo
-nword
+NWord
 NWQ
 nwrap
 nwrfc
@@ -16929,11 +16845,9 @@ obengine
 obfilespec
 Obhrkz
 OBHZSz
-objc
 objectidentity
 objectkeys
 objectmodel
-objectname
 objectproperty
 objectpropertyex
 objectserializer
@@ -17091,7 +17005,6 @@ omfwd
 omg
 omi
 omiserver
-OML
 ommicrosoft
 omnichannel
 Omnissa
@@ -17388,7 +17301,6 @@ OSGB
 osgi
 oshezaf
 osimages
-OSL
 osld
 osm
 osnamespaces
@@ -17562,7 +17474,6 @@ padleft
 padmalathas
 padstart
 Paessler
-pageable
 pageblob
 pageblobclient
 pagecache
@@ -17604,7 +17515,6 @@ parameterfile
 parameterfilemappings
 parametername
 parameterss
-paramiko
 Parasuraman
 Paravirtual
 Paravirtualization
@@ -17759,7 +17669,7 @@ pcmk
 pcn
 Pcon
 Pconf
-pconfig
+Pconfigs
 Pconfigurations
 pconnector
 pcontext
@@ -17768,7 +17678,6 @@ pcp
 pcpu
 pcr
 pcrextend
-pcs
 pcsd
 PCTo
 pcuser
@@ -17798,7 +17707,6 @@ PDyz
 pdz
 PEAP
 pearson
-pec
 peekasync
 peeklock
 peekmessage
@@ -17885,11 +17793,9 @@ pfile
 pfirewall
 Pfk
 pfl
-pfm
 Pfor
 PFOS
 PFree
-pfs
 PFTT
 pfweb
 pfxcertificate
@@ -18080,8 +17986,8 @@ PMACS
 PMb
 pmc
 pmcd
-pmd
 pmda
+PMDs
 PMEC
 pmem
 pmix
@@ -18124,7 +18030,6 @@ podspec
 podtemplates
 Pof
 Poin
-pointee
 Pointset
 pointsofinterest
 pojo
@@ -18423,7 +18328,6 @@ Primeton
 primining
 primittal
 Primprotection
-princ
 principa
 principalassignments
 principalid
@@ -18577,7 +18481,6 @@ propertiesid
 propertiestemplate
 propertycallback
 propertychangedlistener
-propertyname
 propertys
 PROPERTYSOURCEENABLED
 propertyvalue
@@ -18810,7 +18713,6 @@ PWhen
 PWMRq
 pwned
 PWOn
-pword
 pwquality
 PWritable
 PWS
@@ -18842,19 +18744,16 @@ pyopenssl
 pypa
 pypackage
 pyplot
-pyproject
 pyspark
 pysparkkernel
 pystac
 pyt
-pytest
 pythonapp
 pythonhosted
 pythonjob
 pytorch
 pytz
 pywin
-pyyaml
 pyzmq
 Pzu
 pzvw
@@ -18957,7 +18856,6 @@ qpg
 qpi
 qpid
 Qpj
-QPL
 Qprpk
 qpu
 QPynk
@@ -18992,7 +18890,6 @@ qtp
 quadkey
 Quadro
 quadtree
-qualname
 qualtrics
 qualys
 quantitativetypes
@@ -19142,7 +19039,6 @@ radiflow
 radiosingleselect
 radiuspd
 radubulboaca
-radvd
 Radware
 radwiv
 rae
@@ -19295,7 +19191,6 @@ rdpusers
 RDRL
 rdscal
 RDsfh
-RDTSCP
 rdunstan
 rdutt
 rdv
@@ -19454,7 +19349,6 @@ refernece
 referpage
 Refersh
 refetches
-refreshable
 refreshindex
 refreshkeys
 refreshprt
@@ -20121,7 +20015,6 @@ rohithah
 rohogue
 ROHS
 rokeptne
-rol
 roleapiversion
 roleassignment
 roleassignmentid
@@ -20218,7 +20111,6 @@ roworder
 ROWSKIPS
 rowstore
 rowterminator
-rowversion
 Roxuip
 roy
 roygara
@@ -20303,11 +20195,9 @@ rsyncd
 rta
 RTapp
 rtb
-Rtc
 rtept
 RTest
 rthorn
-rtl
 Rtm
 rtn
 rtncy
@@ -20383,7 +20273,6 @@ ruslanzdor
 russellkirk
 Russelsheim
 rustc
-rustup
 RUu
 ruuvi
 ruuvitag
@@ -20765,7 +20654,6 @@ sbdnfs
 sbdoroff
 sbemulatorns
 sbgp
-sbit
 SBMP
 SBNS
 sbo
@@ -21107,7 +20995,6 @@ secyear
 SEDs
 sedusch
 sedutil
-seealso
 segmemts
 segn
 SEGNAM
@@ -21202,8 +21089,8 @@ sepolicy
 sequencenumber
 sequencestart
 sequencestop
-serde
 SERDEPROPERTIES
+Serdes
 sergaz
 serializationexception
 serializationsettings
@@ -21353,7 +21240,6 @@ setaccesspolicyasync
 setaccesstier
 setaccesstierasync
 SETACTIVEDEPLOYMENTS
-SETATTR
 setblobsaccesstier
 setblocksizelong
 setcamera
@@ -21589,7 +21475,6 @@ shpaster
 shracrg
 shractestcluster
 shravan
-shrd
 shrinkdatabase
 shrinklog
 shrshett
@@ -21601,7 +21486,6 @@ SHTQ
 shuaijunye
 SHub
 shubham
-shuf
 shufflekey
 shuj
 shutdownnodes
@@ -21656,7 +21540,6 @@ signuporsignin
 signups
 signupsignin
 signupsigninexample
-sigterm
 silentmode
 silverfort
 Silverlight
@@ -21749,7 +21632,6 @@ ske
 Skillable
 skillset
 skimmingnull
-SKINIT
 skipallerrorfilenotsupportedfornonbinarycopy
 skipcovered
 skipcreate
@@ -21797,7 +21679,6 @@ sle
 sleeptimeinmillisbetweensynccycle
 slesmsscl
 sliceruns
-slideshow
 SLIDINGWINDOW
 SLIO
 slis
@@ -21825,14 +21706,11 @@ slurmnodearraytab
 slurmrestd
 smac
 smalldate
-smalldatetime
 smalldatetimefromparts
 SMALLDECIMAL
 smalldisk
-smallmoney
 smallrc
 smallrye
-smallserial
 smartblob
 smartcard
 smartdetectoralertrules
@@ -22227,7 +22105,6 @@ sqlcat
 sqlclassic
 sqlclient
 sqlcmd
-SQLCODE
 SQLCOLLATION
 sqlcollectors
 sqlconnection
@@ -22437,7 +22314,6 @@ ssmtp
 ssn
 Ssoftware
 SSPAP
-SSPL
 sspr
 SSPs
 ssr
@@ -22458,7 +22334,6 @@ ssyyyymmdd
 ssz
 STaa
 staborgstorage
-stac
 stackedareachart
 stackedge
 stackexchange
@@ -22468,7 +22343,6 @@ stackify
 stackout
 STACKTRACING
 staer
-STAF
 stageblockfromuri
 stageblockfromuriasync
 stageblockfromurl
@@ -22770,7 +22644,6 @@ strongpasswordhere
 strongswan
 strongtype
 strrodic
-strtod
 STRUST
 stsadm
 stsavell
@@ -23014,7 +22887,6 @@ SVCGSSD
 svchost
 svclocation
 svcstatus
-SVE
 sveldurthi
 Svenska
 SVI
@@ -23147,7 +23019,6 @@ syslogserver
 sysmail
 sysmaint
 sysmaintplan
-SYSNAME
 sysnr
 sysobjects
 sysopt
@@ -23326,7 +23197,6 @@ tariqzafar
 tartabit
 TASE
 taskaddparameter
-taskbar
 Taskcollection
 taskcompletion
 taskconstraints
@@ -23773,7 +23643,6 @@ THPy
 THQb
 threadcount
 threaddump
-threadpool
 threadpoolsize
 threadx
 threatactors
@@ -23848,8 +23717,7 @@ timeseriesdata
 timeseriesgroups
 timeskew
 timeslot
-timespan
-timespec
+timespans
 timestamping
 timestampstring
 TIMESTAMPWITHTIMEZONE
@@ -23869,7 +23737,6 @@ tinaharter
 tinkerpop
 TInput
 tinyblob
-tinyint
 Tinylicious
 tinytext
 tinyurl
@@ -23997,7 +23864,6 @@ tokenstate
 tokenurl
 tokenvalidationparameters
 toketi
-tokio
 Tolatest
 tollapp
 tollfree
@@ -24035,11 +23901,9 @@ topicresourceid
 topicspace
 TOPICSPACENAME
 topictype
-topleft
 topleveldomains
 topone
 topoperator
-topright
 toptalkers
 torage
 torageckrexph
@@ -24160,7 +24024,6 @@ TRaw
 trc
 TRDAT
 treepath
-treeview
 trello
 Tremblay
 trendingtopics
@@ -24243,7 +24106,6 @@ TSN
 TSpaces
 tsq
 tsql
-Tsquery
 tsr
 TState
 tstatus
@@ -24252,7 +24114,6 @@ tstrsd
 Tsub
 tsubject
 tsushi
-Tsvector
 Tswtz
 TTest
 ttgm
@@ -24510,7 +24371,6 @@ unassignment
 unassigns
 unattend
 unauthorizedaccessexception
-unbatched
 UNBV
 uncertainfaces
 unclaims
@@ -24572,7 +24432,6 @@ unionoutput
 unionsettings
 unipivot
 uniqueid
-uniqueidentifier
 uniquename
 uniquenfs
 uniquestring
@@ -24988,7 +24847,6 @@ VANu
 vape
 vapidkeys
 VApmbn
-varbinary
 varbyte
 VARCHR
 vargraphic
@@ -25049,7 +24907,6 @@ vcloud
 VContainer
 vcore
 VCORESECS
-vcpkg
 vcpu
 vcredist
 vcruntime
@@ -25201,7 +25058,6 @@ viewability
 viewerhost
 viewgw
 viewgwpip
-viewports
 viewwan
 vigneshgo
 vijain
@@ -25319,8 +25175,8 @@ vmguid
 vmhg
 VMHOSTDRSRULE
 vmi
-vmid
 VMidentities
+VMIDs
 vmimage
 VMinfo
 vminsights
@@ -25546,7 +25402,6 @@ Vuelta
 vuepress
 VUH
 vulerability
-vulkan
 Vuq
 VUs
 VUser
@@ -26124,7 +25979,6 @@ WZpb
 wzpx
 Wzr
 Wzvk
-Xaa
 XAAAAABKMMOj
 xact
 Xactly
@@ -26304,7 +26158,6 @@ Xrp
 XRs
 XRuntime
 xrw
-xsave
 xscs
 XSecret
 xsengine
