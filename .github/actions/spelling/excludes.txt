@@ -109,6 +109,7 @@
 ^articles/governance/management-groups/media/add_context_sub\.PNG$
 ^articles/governance/management-groups/media/detail_action_small\.PNG$
 ^articles/governance/management-groups/media/move_small_context\.PNG$
+^articles/governance/resource-graph/reference/supported-tables-resources\.md$
 ^articles/iot-hub/media/iot-hub-how-to-order-connection-state-events/action-if-true\.PNG$
 ^articles/operator-service-manager/get-started-with-private-link\.md$
 ^articles/oracle/git$
