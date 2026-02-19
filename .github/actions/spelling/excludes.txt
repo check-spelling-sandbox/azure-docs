@@ -12,6 +12,8 @@
 (?:^|/)vendor/
 (?:^|/|\b)requirements(?:-dev|-doc|-test|)\.txt$
 -lock\.yaml$
+[^/]\.JPG$
+[^/]\.PNG$
 \.a$
 \.ai$
 \.all-contributorsrc$

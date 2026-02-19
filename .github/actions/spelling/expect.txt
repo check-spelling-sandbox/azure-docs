@@ -271,7 +271,6 @@ ACFEAAB
 ACFR
 ACFS
 ACG
-Achiavable
 achivable
 aci
 ACircle
@@ -363,7 +362,6 @@ actioning
 actionrules
 actiontoken
 actiontrail
-Actity
 activ
 activatedatabase
 activatedn
@@ -396,10 +394,8 @@ actoruserid
 actoruseridtype
 actorusername
 actorusernametype
-actoty
 actualtemp
 actuser
-Actviy
 ACTVT
 acu
 ADAA
@@ -423,7 +419,6 @@ ADAS
 adasdasdd
 Adataset
 adatum
-ADAVAILABILITYSET
 adb
 adbeops
 Adblock
@@ -460,7 +455,6 @@ additionalinfo
 additionalinformation
 addjoincolumn
 addkdc
-addloadbalancer
 addlocationparameter
 addlogin
 addminutes
@@ -564,16 +558,13 @@ ADMA
 adme
 admetest
 adminactiongroup
-Adminatator
 adminconsent
 admindistricts
 Adminhere
-Adminiseator
 Administratin
 adminlogin
 ADMINPASSWORD
 adminstate
-Adminstrator
 adminuser
 adminusername
 adminwebservice
@@ -621,7 +612,6 @@ Adyen
 aea
 aeaf
 AEast
-Aeayan
 aeb
 aec
 AECA
@@ -794,7 +784,6 @@ ahv
 aia
 aiandcognitiveservices
 AIAPI
-Aiarsorviers
 aib
 AICPA
 aietf
@@ -802,7 +791,6 @@ AIfj
 aifoundry
 aigerim
 aigerimb
-Aiiiesor
 AIkey
 aimee
 ainer
@@ -983,7 +971,6 @@ Alluxio
 allversions
 Allvnet
 allyourbase
-allyourteplsted
 alm
 almalinux
 ALog
@@ -994,7 +981,6 @@ ALPA
 ALPC
 alphnumeric
 alr
-ALri
 ALROLRUn
 ALRTS
 alsheheb
@@ -1017,7 +1003,6 @@ ALTVNET
 ALu
 alua
 ALV
-Alvernative
 alvesfabi
 alvidela
 alvin
@@ -1073,7 +1058,6 @@ amx
 amz
 amzn
 anacrontab
-anagemertrou
 anaharris
 Analysescascade
 analysisservices
@@ -1101,7 +1085,6 @@ anavin
 anavinahar
 anboisve
 anchortext
-andiun
 ANDM
 andrewbrownmsft
 ANDROIDADAL
@@ -1163,7 +1146,6 @@ anniewang
 annm
 annotationpresent
 ano
-anola
 Anomali
 anomalychart
 anomalydetection
@@ -1179,7 +1161,6 @@ anotherfile
 anothersecret
 anotherserver
 anothertemplate
-Anp
 ANQ
 anrs
 ansrin
@@ -1222,11 +1203,7 @@ AOMA
 aon
 Aoob
 aop
-AOSA
 aosm
-AOSVM
-AOSVMI
-Aoure
 aover
 apaas
 APAB
@@ -1337,7 +1314,6 @@ appgwcert
 appgwdiag
 appgwid
 appgwname
-appgwpmtest
 appgwsubnet
 appgwtest
 appgwtestase
@@ -1371,6 +1347,7 @@ applicationgateway
 applicationgatewaycontainers
 applicationgatewayd
 applicationgatewayglobalconfiguration
+applicationgatewaywebapplicationfirewallpolicies
 applicationgroups
 applicationhost
 applicationid
@@ -1748,7 +1725,6 @@ asynchronized
 asynclocalstorage
 asyncoperation
 asyncpageable
-asz
 ata
 atapi
 atargetstorage
@@ -1791,7 +1767,6 @@ attestationmechanism
 attestationproviders
 ATTMEPTNUM
 attnum
-attribu
 attributeset
 Attunity
 atus
@@ -1816,6 +1791,7 @@ auditscope
 aue
 aufs
 AUnique
+Aur
 aur
 aure
 aurighet
@@ -1910,9 +1886,7 @@ autofs
 autogenerating
 Autogranting
 Autogrowth
-autoha
 autoheal
-autoho
 autoinflate
 autoingest
 autoingesting
@@ -2027,6 +2001,7 @@ availableaccounts
 AVAILABLECLUSTERPOOLVERSIONS
 AVAILABLECLUSTERVERSIONS
 availabledeployments
+availablemanagedenvironmentsworkloadprofiletypes
 availableprovidertypes
 availablescopes
 availableservicetiers
@@ -2150,6 +2125,8 @@ azapplicationgatewaybackendhttpsetting
 azapplicationgatewayclientauthconfiguration
 azapplicationgatewaycustomerror
 azapplicationgatewayfirewallpolicy
+azapplicationgatewayfirewallpolicylogscrubbingconfiguration
+azapplicationgatewayfirewallpolicylogscrubbingrule
 azapplicationgatewayfirewallpolicysetting
 azapplicationgatewayfrontendipconfig
 azapplicationgatewayfrontendport
@@ -2218,6 +2195,7 @@ azcdndeliveryrulerequestmethodconditionobject
 azcdndeliveryrulerequestschemeconditionobject
 azcdndeliveryrulerequesturiconditionobject
 azcdndeliveryruleresponseheaderactionobject
+azcdndeliveryruleurlfileextensionconditionobject
 azcdndeliveryruleurlfilenameconditionobject
 azcdndeliveryruleurlpathconditionobject
 azcdnendpoint
@@ -2363,8 +2341,11 @@ azfrontdoorbackendobject
 azfrontdoorbackendpoolobject
 azfrontdoorcdnendpoint
 azfrontdoorcdnendpointcontent
+azfrontdoorcdnmigrationwebapplicationfirewallmappingobject
 azfrontdoorcdnorigin
 azfrontdoorcdnorigingroup
+azfrontdoorcdnorigingrouphealthprobesettingobject
+azfrontdoorcdnorigingrouploadbalancingsettingobject
 azfrontdoorcdnprofile
 azfrontdoorcdnprofilechangeskuwafmappingobject
 azfrontdoorcdnprofilemigration
@@ -2520,6 +2501,7 @@ aznetworkinterfaceipconfig
 aznetworkmanager
 aznetworkmanagerconnectivityconfiguration
 aznetworkmanagerconnectivitygroupitem
+aznetworkmanagereffectiveconnectivityconfiguration
 aznetworkmanagergroup
 aznetworkmanagerscope
 aznetworkmanagersecurityadminconfiguration
@@ -2780,6 +2762,7 @@ azureauth
 azureautomation
 azureautomationrunbookgallery
 azurebackup
+azurebackupfindrestorabletimerangesresponseresource
 azurebackupoperations
 azurebackuprecoverypointresourcelist
 azurebatch
@@ -2905,6 +2888,7 @@ Azurepodidentityexceptions
 azurepolicy
 azureportal
 azurepostgresqlnpgsqldatatypenotsupported
+azurepostgresqlnpgsqlpartitioncolumnnamenotprovided
 azurepower
 azurepowershell
 azurepowershellcredential
@@ -3126,7 +3110,6 @@ backuprolebinding
 backupsa
 Backupserver
 backupset
-backupsto
 backupstorageaccount
 backupstorageconfig
 backupsv
@@ -3401,7 +3384,6 @@ BCSI
 bctcb
 BCTP
 BCWN
-Bcwoup
 BCX
 BCYX
 bda
@@ -3517,7 +3499,6 @@ bff
 BFFE
 BFILE
 bfk
-BFL
 Bflho
 bfqt
 BFSI
@@ -3631,7 +3612,6 @@ bitrates
 bitruntime
 bitsight
 bitwarden
-bivbash
 BIZSPARK
 biztalk
 bjb
@@ -3806,7 +3786,6 @@ BMWH
 BMYq
 BNA
 Bname
-BNB
 BNc
 bnd
 bnew
@@ -3895,14 +3874,12 @@ BPerf
 Bpj
 BPjd
 BPL
-Bplence
 bploni
 bpm
 bpo
 bport
 Bpostal
 bpr
-Bptccer
 BQAAAAAAg
 Bqgjv
 BQM
@@ -3946,7 +3923,6 @@ brokerlistener
 brokerlisters
 brokername
 Bromma
-Bronse
 brouillage
 brownbag
 brownfield
@@ -4037,7 +4013,6 @@ BULKLOAD
 bulkregistry
 bulkupdate
 buo
-Burien
 Burina
 Burkina
 burstable
@@ -4116,7 +4091,6 @@ bypassexplained
 bypasslist
 bypassonlocal
 bypasspermissions
-byper
 Bypv
 Byq
 byrp
@@ -4223,8 +4197,6 @@ camn
 Camry
 canadacentral
 canadaeast
-canbe
-Cancei
 cancelimportexportjob
 cancellationtoken
 cancelpipelinerun
@@ -4279,14 +4251,12 @@ categorysearch
 Catergory
 catfacts
 catgie
-Catone
 CAUD
 cauthenticationmethodspolicy
 CAuthority
 caveatslimitations
 Cavium
 cawa
-Caxlex
 CAZ
 Cazure
 Cazurecli
@@ -4332,7 +4302,6 @@ ccallback
 ccap
 CCBC
 cccccccccccc
-cccccccccccccc
 CCCCCCQd
 CCCUs
 ccd
@@ -4342,7 +4311,6 @@ ccdvdnf
 cce
 CCEID
 ccemailalias
-ccept
 Ccertificateprofile
 CCEVS
 CCFs
@@ -4460,7 +4428,6 @@ censusdatacontainer
 Centerity
 centiseconds
 centisecs
-centoetoretont
 centralexportresources
 centralfrance
 centralindia
@@ -4480,8 +4447,7 @@ certd
 certdetails
 CERTDIR
 Certencoded
-certficate
-certfication
+certficates
 Certfor
 Certian
 certifcate
@@ -4518,7 +4484,6 @@ CESMII
 Cet
 cetas
 Cetegra
-Cetficate
 cexal
 Cexistingplan
 Cexpose
@@ -4615,6 +4580,8 @@ charithg
 charithgunaratna
 charlesf
 charris
+charsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+charsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 charsnotmatched
 chatapp
 chatbots
@@ -4686,7 +4653,7 @@ chkdsk
 chkittel
 chkpt
 chksrv
-chl
+CHl
 chne
 chnn
 chokepoint
@@ -4726,8 +4693,6 @@ ciam
 ciamlogin
 cib
 cicd
-cick
-Cickona
 CICR
 cics
 cidentityuserflow
@@ -4739,11 +4704,9 @@ cidrsubnet
 CIFAR
 cifs
 cifsacl
-Ciient
 CIIS
 ciislog
 cik
-Cilnstall
 cim
 CIMOM
 CIMTYP
@@ -4831,9 +4794,7 @@ clc
 cld
 cleanroom
 cleantextfunctionstorageacct
-cleanupservice
 cleanuptestmigration
-Cleanuptool
 cleardb
 clearpass
 clearsuspects
@@ -4901,7 +4862,6 @@ clogincom
 Cloness
 clonesuffix
 clonevolume
-Clont
 closedlist
 closepullrequest
 closetimeo
@@ -4981,7 +4941,6 @@ clusterdnsname
 clusterer
 clusterextensionid
 clusterinfo
-clusterip
 clusterissuer
 clusterjob
 clustername
@@ -5052,7 +5011,6 @@ cncf
 cncg
 CNCP
 CNes
-cnetdon
 cnfmanifest
 CNFs
 Cnfv
@@ -5161,9 +5119,7 @@ communicationuseridentifier
 commvault
 commvaultsecurityiq
 como
-comorestrtont
 Comoros
-comosoit
 companymanager
 companyname
 compareclaimtovalue
@@ -5186,7 +5142,6 @@ complianceparms
 complianceresults
 compliancestatus
 compmgmt
-Componente
 componentmodel
 componentname
 componentssummary
@@ -5212,7 +5167,6 @@ computenodeuser
 computeoperationsstatus
 computeresources
 computeresult
-computern
 computername
 Computeschedule
 computescheduleresources
@@ -5229,7 +5183,6 @@ conditionalsplit
 conditionclause
 confcom
 confcompool
-Confen
 confi
 Conficker
 confidentialclientapplicationbuilder
@@ -5290,7 +5243,6 @@ confluentsecret
 confonfigured
 conforme
 confwhitelist
-Congonet
 connack
 Conne
 connectaddress
@@ -5354,9 +5306,7 @@ conntrackd
 CONNURL
 conocido
 Conova
-Conro
 Conrtol
-conse
 consentedtodevopstenants
 CONSENTPENDING
 consentprovidedforminor
@@ -5376,7 +5326,6 @@ contactinfo
 contactinformation
 contacto
 CONTACTPOINT
-Containal
 containerabc
 containerapp
 containerappezacr
@@ -5438,7 +5387,6 @@ continer
 continerdeltest
 continuar
 continuouswebjobs
-Contmaton
 contogreat
 contosa
 contoso
@@ -5525,7 +5473,6 @@ contosotenant
 contosotest
 contosotopic
 contosouser
-Contosovautt
 contosovm
 contosovmsacct
 contosovnet
@@ -5535,19 +5482,15 @@ contosoweb
 contosowebabcd
 contosowebapp
 contosowest
-Contoure
 contourlines
 contractmismatches
 contrastadr
 contribitorrequireaccess
 contrl
-Contro
 controlfile
 controllerrevisions
 controlplane
 contruct
-contsort
-Contt
 convertborder
 convertexception
 convertfrom
@@ -5629,7 +5572,6 @@ correlationsearch
 Corrleation
 corsini
 cortana
-Cortifeate
 coscale
 cosmosacct
 cosmosb
@@ -5670,7 +5612,6 @@ countrowshive
 countryorregion
 countunique
 COUNTYNAME
-courte
 coustomer
 cout
 COuy
@@ -5720,7 +5661,6 @@ cra
 craigshoemaker
 cralvord
 cramfs
-Crange
 crashkernel
 CRASHMONITORING
 crb
@@ -5794,6 +5734,7 @@ createorupdatefunctionsecret
 createorupdatefunctionsecretslot
 createorupdatehostsecret
 createorupdatehostsecretslot
+createorupdateinsightalertscheduledactionbyscope
 createorupdatepolicy
 createorupdatevault
 createotpsecret
@@ -6188,7 +6129,6 @@ DAADD
 daaf
 daal
 daberry
-Dabob
 dac
 dacarte
 dacb
@@ -6200,11 +6140,9 @@ dadae
 dademath
 dadmin
 dadsv
-daea
 daemonset
 DAFA
 dafault
-Dafne
 dafult
 dagbag
 dailyafs
@@ -6311,6 +6249,8 @@ dataconnection
 dataconnectors
 dataconsistencyfailedtogetsinkfilemetadata
 dataconsistencyfailedtogetsourcefilemetadata
+dataconsistencyvalidationnotsupportedforlowversionselfhostedintegrationruntime
+dataconsistencyvalidationnotsupportedfornondirectbinarycopy
 datacontenttype
 datacontractserializer
 datacontrollers
@@ -6676,7 +6616,6 @@ deae
 deallocatenodes
 dearandyxu
 dearmor
-deat
 deauthorization
 debacffac
 debatch
@@ -6738,7 +6677,6 @@ deeplink
 deeppurple
 deepstream
 DEERE
-Defaule
 defaultazurecredential
 defaultazurecredentialbuilder
 defaultazurecredentialoptions
@@ -6815,6 +6753,8 @@ deletedshare
 deletedsites
 deletedvaults
 deletedworkspaces
+deletefilesaftercompletionnotsupportedfornondirectbinarycopy
+deletefilesaftercompletionnotsupportedforthisconnector
 deletefunctionsecret
 deletefunctionsecretslot
 deletehostsecret
@@ -6988,7 +6928,6 @@ Destinationsubnets
 dests
 destsas
 DESX
-deta
 detailedendpointhitshistory
 detailedinfo
 detailedmodels
@@ -7004,7 +6943,6 @@ detectprotectedmaterialforcode
 detectungroundedness
 detectwatermark
 deteild
-detiona
 DEU
 Deureka
 devaccess
@@ -7022,7 +6960,6 @@ devdivchpfy
 developerportalauditlogs
 developmentartifacts
 developmentframeworks
-devempfs
 devenv
 devenvironment
 devex
@@ -7209,7 +7146,6 @@ diagxxx
 diahost
 Dialout
 dialpad
-dianclale
 diawp
 DIAXR
 diberry
@@ -7278,7 +7214,6 @@ disagnostic
 disallowedhosts
 disasterrecoveryconfigs
 disasterrecoveryconfigsoperationsextensions
-Disca
 discaleqa
 disconnectactivesessions
 disconnectp
@@ -7291,7 +7226,6 @@ Discoveredmachines
 discoveredsecuritysolutions
 discoveryrules
 discoverysrv
-disead
 disenrollment
 disgram
 diskaccesses
@@ -7376,7 +7310,6 @@ dln
 Dlnv
 DLoc
 dlp
-DLPAR
 dlq
 DLRR
 DLRs
@@ -7463,7 +7396,6 @@ dnsutils
 Dnsv
 dnszone
 dnszonelink
-Dnt
 dntdom
 DNtr
 DNumber
@@ -7660,7 +7592,6 @@ drac
 dracut
 dradmin
 dragos
-Dranafbctup
 drawingchanged
 drawingchanging
 drawingcomplete
@@ -7681,7 +7612,6 @@ dreamcatcher
 dregex
 DRejected
 dremio
-DReplicationgroup
 Dresource
 drewbat
 drewbatgit
@@ -7801,7 +7731,6 @@ dtl
 DTM
 dtmfs
 dtmi
-dtmizexample
 DTn
 dtname
 dtostring
@@ -7906,7 +7835,6 @@ Dxt
 dxwvb
 dxxxxxxxxxxx
 dxy
-Dyanmics
 dyear
 dyna
 dynacols
@@ -7916,14 +7844,12 @@ dynamicpersongroups
 dynamicproperty
 dynamicprovisioning
 dynamicsax
-dynamicsaxrecoveryplan
 dynamicscope
 dynamicscrm
 dynamicscrmonline
 dynamicsessions
 dynamicsformat
 dynamicsnav
-Dynamicssosvi
 dynatrace
 dyno
 Dynpro
@@ -7953,7 +7879,6 @@ eae
 eaeb
 eaedda
 eaee
-EAeuatlake
 eaf
 eafd
 eafe
@@ -7964,7 +7889,6 @@ EAMBMG
 eamono
 eamonoreilly
 eap
-eappes
 EAPTLS
 EAPXML
 earlyprintk
@@ -8143,9 +8067,7 @@ eefbccfe
 eefe
 eeffgg
 EEGP
-eens
 Eeotr
-eeps
 EES
 eesp
 efa
@@ -8328,7 +8250,6 @@ EMSPORT
 emssettings
 Emt
 emtehran
-emtserver
 EMULATEMODE
 EMV
 Emz
@@ -8354,7 +8275,6 @@ enablescript
 enablesign
 enablestaging
 enabletestsend
-enagemeniroup
 ename
 ENAP
 enbwcache
@@ -8438,7 +8358,6 @@ enrollmentread
 ENSA
 Ensv
 Ensyst
-enteerver
 Enteprise
 enterprisepushservicehub
 enterpriseregistration
@@ -8498,7 +8417,6 @@ eomonth
 EOP
 EOPEN
 EOSA
-eosoyideortesthim
 EOy
 epadd
 EPAM
@@ -8521,14 +8439,12 @@ epidemi
 epidemiolo
 eploys
 epm
-EPMAMOS
 EPMAP
 epo
 epolicy
 EPP
 EPR
 epsv
-EPUAMDS
 epv
 epw
 EPy
@@ -8579,7 +8495,6 @@ erockyenterprisesoftwarefoundationinc
 erp
 erpeeringmetrics
 ERPSAN
-errace
 ERRG
 errlog
 ERRMODE
@@ -8662,7 +8577,6 @@ etl
 etm
 Etobicoke
 etp
-ets
 Etu
 etw
 etwork
@@ -8697,7 +8611,6 @@ evaluatedwebapps
 evanhi
 EVC
 evenhub
-evenions
 eventbody
 eventcategories
 eventcount
@@ -8893,7 +8806,6 @@ executionresult
 executionsummary
 executoin
 execve
-Exeuton
 Exfat
 exfiltrated
 exfiltrates
@@ -8942,7 +8854,6 @@ exportedrootcertpath
 exportedtemplate
 exporterrors
 exportfs
-exportis
 exportlabresources
 exportresourceusage
 exportstatus
@@ -9029,7 +8940,6 @@ faa
 faadb
 FABEF
 fabferri
-Fabikarfondtons
 fabirkam
 fabp
 FABRIAKMVM
@@ -9066,7 +8976,6 @@ factorygithubconfiguration
 factstaging
 fadbe
 FAdlh
-Fadouton
 FAEF
 faf
 failback
@@ -9089,12 +8998,10 @@ Faks
 fal
 Faldsv
 fallbackrouteproperties
-fallover
 falsv
 Falta
 falves
 famsv
-fanafshred
 fanche
 fanless
 fanoutfanin
@@ -9112,7 +9019,6 @@ Fargate
 farmbeats
 faroe
 fasod
-FAsse
 fassessments
 fastapi
 fastapiapp
@@ -9241,7 +9147,6 @@ featureversion
 featurised
 featurization
 feb
-febritacons
 fedauth
 fedbbb
 Feddersen
@@ -9258,10 +9163,8 @@ feedly
 feedpolldelay
 FEFEFEFEFEFEFEFEFEFEF
 feid
-feilover
 feip
 FEjet
-fel
 felasticpools
 felixsong
 Femenino
@@ -9273,7 +9176,6 @@ FERC
 FERNET
 fernflower
 ferpa
-fesiiee
 fesub
 fetchdata
 fetchmcpservercredentials
@@ -9284,7 +9186,6 @@ fexpressroute
 fextensions
 Ffabric
 ffad
-ffana
 Ffarmbeats
 ffb
 ffbcc
@@ -9369,7 +9270,6 @@ filemove
 filemovemodule
 fileoutputcommitter
 filepattern
-FILEPROCESSOR
 fileproviders
 fileservices
 fileshare
@@ -9429,7 +9329,6 @@ findimage
 findorphanroleassignments
 findsimilars
 finefoodembeddings
-fing
 FINGRP
 finma
 finops
@@ -9496,7 +9395,6 @@ flaplings
 flatfile
 Flatnamespace
 Flattern
-fle
 fleetspace
 flexcache
 flexconsumption
@@ -9550,9 +9448,6 @@ flushdns
 fluxconfigurations
 fluxdelay
 fmachines
-fmana
-fmanafog
-fmanafshred
 fmanaged
 fmanagedclusters
 Fmanagement
@@ -9586,7 +9481,6 @@ Fodhelper
 folderid
 FOLDERPATH
 follo
-folowing
 fonctionnement
 fontobject
 fontoso
@@ -9642,10 +9536,9 @@ FPGAs
 fpgasizelist
 fph
 fpivots
-fpl
+FPL
 Fpolicy
 Fportal
-Fpossble
 fpowershell
 FPR
 fprint
@@ -9785,8 +9678,6 @@ fsvrlsf
 fsynapse
 fsyncdir
 Ftables
-ftanaiog
-ftaraiog
 Ftasks
 ftd
 FTDV
@@ -9859,7 +9750,6 @@ fuxigh
 fuyan
 Fuzzi
 fvaults
-Fvebapot
 fversions
 Fvfopendes
 Fvhp
@@ -10650,12 +10540,10 @@ Gvvrl
 GVX
 GVzd
 gwallace
-GWauthenticaton
 gwbits
 gwc
 gwconfig
 GWI
-GWidemol
 gwip
 gwipconf
 gwipconfig
@@ -10704,7 +10592,6 @@ hadr
 haga
 hagroup
 HAgw
-HAHANA
 HAI
 haikunator
 haital
@@ -10723,7 +10610,6 @@ hanadc
 hanahsr
 hanahsrcontainer
 hanainstance
-hanaldata
 HANALOGBACKUP
 HANALSN
 hanamachine
@@ -10851,16 +10737,13 @@ hdbbackupdiag
 hdbclient
 hdbindexserver
 hdbinfo
-hdbinst
 hdblcm
 hdblcmgui
-hdblem
 hdbnameserve
 hdbnsutil
 HDBODBC
 hdbshm
 hdbsql
-hdbuninst
 hdbuserstore
 hdd
 hddl
@@ -11012,9 +10895,7 @@ Historylength
 Hitcount
 hitech
 hitl
-hitpsy
 hitrust
-Hiub
 hiveactivity
 hiveconf
 hivejob
@@ -11189,7 +11070,6 @@ Hqpc
 HQvwg
 hrandfield
 hrasheed
-hrastored
 hrazi
 HRD
 hregion
@@ -11334,7 +11214,6 @@ hvd
 hvhost
 hvr
 HVta
-hvtps
 HVyc
 Hvzx
 HWaddr
@@ -11459,7 +11338,6 @@ iastring
 IAsync
 iasynccollector
 iat
-iatlled
 iaulakh
 IAuthentication
 iauthenticationmethod
@@ -11494,9 +11372,9 @@ IButton
 ibuverbs
 ibv
 Ibz
-ica
 ICache
 ICANN
+ICAs
 icb
 icc
 ICCP
@@ -11504,7 +11382,6 @@ icd
 icdx
 icecream
 Icelake
-icense
 ICertificate
 ICF
 IChat
@@ -11631,10 +11508,7 @@ IED
 ieesc
 ief
 ieinternals
-ielp
-IEMs
 IEndpoint
-ientiy
 ienumerable
 IEnumeration
 IEnumerator
@@ -11657,7 +11531,6 @@ IFEO
 ifexists
 ifft
 Ifhe
-ified
 IFile
 iflow
 ifnotexists
@@ -11666,11 +11539,9 @@ Ifpresent
 ifroute
 ifspeed
 IFsu
-ifthe
 IFunctions
 ifup
 IFxz
-Ifyou
 IGettable
 Igf
 IGlt
@@ -11726,7 +11597,7 @@ iisstart
 iistest
 IISVM
 IISVMW
-iit
+IIT
 IIYP
 Ijdi
 ijkl
@@ -11788,7 +11659,6 @@ IMAGERESOLUTION
 imageretrieval
 imageselect
 imagesend
-imagesitesthtm
 imagespritemanager
 imagetemplates
 imageurl
@@ -11845,8 +11715,6 @@ IMUTAq
 IMvc
 IMy
 inapp
-Inataling
-Inavallation
 inboundendpoints
 inboundnatrules
 inboundnetworkdependenciesendpoints
@@ -11857,7 +11725,6 @@ INbv
 incalldiagnostics
 incchgtracking
 incentivize
-inci
 incidentemergency
 incidentmanagement
 incidentownerinfo
@@ -11894,8 +11761,6 @@ individualenrollment
 Industrie
 Industroyer
 industrywide
-Ineal
-Inetall
 INETCO
 inetd
 ineteractive
@@ -12021,7 +11886,6 @@ insightsresources
 inspec
 Inspektor
 insravan
-Insta
 installable
 installationoperation
 installdir
@@ -12033,7 +11897,6 @@ installmac
 installprereq
 installscript
 installwin
-Instalting
 instancecount
 instanceid
 instanceinputendpoint
@@ -12055,10 +11918,8 @@ instkey
 INSTPI
 instructure
 instrumentationkey
-instruntime
 instvg
 insync
-intalation
 intbits
 integrationaccountassemblies
 integrationaccounts
@@ -12124,7 +11985,6 @@ intset
 INTTAB
 inturruptions
 Inuktitut
-INumber
 INVALIDARG
 invalidateallrefreshtokens
 invalidationg
@@ -12385,7 +12245,6 @@ isjson
 isks
 islengthrange
 isletterordigit
-ismtserver
 isnan
 isnoc
 isnotempty
@@ -12423,7 +12282,6 @@ issupported
 ISTA
 IStack
 istemplate
-isthe
 istio
 IStorage
 ists
@@ -12435,7 +12293,6 @@ isv
 isvaliddetailed
 isvargas
 isvbox
-ISVM
 ISVPRODID
 ISVSVM
 ISVSVN
@@ -12455,7 +12312,7 @@ ITargeting
 itargetingcontextaccessor
 ITask
 ITDR
-ite
+ITE
 itelemetry
 itelemetryinitializer
 itemaclobject
@@ -12503,7 +12360,6 @@ IVo
 Ivoire
 ivr
 ivrf
-ivstonsra
 IWAx
 IWeb
 IWFND
@@ -12525,7 +12381,6 @@ IYk
 IYP
 IYRc
 Iyt
-ize
 ized
 IZH
 Izj
@@ -12880,7 +12735,6 @@ jrnvg
 jroth
 Jrq
 Jrwa
-jsapprdhdb
 jsaurezle
 jsaurezlee
 jsc
@@ -12894,7 +12748,6 @@ jslink
 Jsm
 JSmavg
 jsmith
-jsmtserver
 JSO
 jsonarg
 jsoncpp
@@ -13085,7 +12938,6 @@ kedodd
 keepaliveinseconds
 keepalives
 keepdim
-kefresh
 KEIq
 kek
 kekurl
@@ -13380,7 +13232,6 @@ kvsecret
 kvset
 kvsi
 KVVM
-Kwak
 KWEFXOSt
 kwh
 kwill
@@ -13926,7 +13777,6 @@ localuihttps
 localuser
 localvideocontainer
 localvideostream
-LOCATI
 locationbias
 locationlistresult
 LOCATIONNAME
@@ -14071,7 +13921,6 @@ lsa
 lsad
 lsalookupsids
 LSAPPL
-lsapprdhdbs
 lsarpc
 lsass
 lsassy
@@ -14082,7 +13931,6 @@ lshw
 lsinitrd
 Lsk
 lsmagic
-lsmtserver
 lsn
 lso
 lsp
@@ -14144,7 +13992,6 @@ Luxembourgish
 luxon
 lva
 lvandenende
-Lvault
 lvdisplay
 Lvg
 Lvj
@@ -14222,18 +14069,15 @@ macopt
 Macquarie
 Macroview
 macsec
-MAcu
 madhn
 Madhura
 madhurinms
 MADTn
-Madv
 madvise
 maersk
 magakman
 magattus
 magento
-magesresthim
 maghan
 magifford
 magoedte
@@ -14283,7 +14127,6 @@ mamcgove
 mametcal
 MAML
 manaement
-manafog
 Manag
 Managament
 managedapis
@@ -14342,9 +14185,7 @@ managepolicy
 Managerprofile
 Managerprofilename
 managment
-Manaiog
 mananaged
-Manangement
 Mandawale
 mandiant
 MANDT
@@ -14355,7 +14196,6 @@ maniss
 manmeetb
 mann
 Manoj
-Manony
 manoskow
 MANRS
 mansha
@@ -14383,7 +14223,6 @@ maptilesize
 maptype
 mapvalues
 mapy
-Maraiog
 Marama
 Marblerun
 marcha
@@ -14679,7 +14518,6 @@ memtb
 memtier
 Menara
 menchi
-Menitring
 menos
 mentionees
 mentoring
@@ -14889,8 +14727,11 @@ microsoftcommunicationchatmessagedeleted
 microsoftcommunicationchatmessageedited
 microsoftcommunicationchatmessagereceived
 microsoftcommunicationincomingcall
+microsoftcommunicationrouterjobclassificationfailed
 microsoftcommunicationrouterjobclassified
+microsoftcommunicationrouterjobexceptiontriggered
 microsoftcommunicationrouterjobqueued
+microsoftcommunicationrouterjobwaitingforactivation
 microsoftcommunicationrouterworkerderegistered
 microsoftcommunicationrouterworkerofferaccepted
 microsoftcommunicationrouterworkerofferdeclined
@@ -14981,11 +14822,13 @@ microsoftmetrics
 microsoftmigrate
 microsoftmonitor
 microsoftnetapp
+microsoftnetappnetappaccountscapacitypoolsvolumes
 microsoftnetwork
 microsoftnetworkapplicationgateways
 microsoftnetworkexpressroutegateways
 microsoftnetworktrafficmanagerprofiles
 microsoftnotificationhubs
+microsoftnotificationhubsnamespacesnotificationhubs
 microsoftoffazure
 microsoftonline
 microsoftoperationalinsights
@@ -15097,7 +14940,6 @@ mimecast
 mimergel
 mimikatz
 mimxrt
-minal
 minapiversion
 minchild
 minclass
@@ -16002,7 +15844,6 @@ mykeyvaultdeploymentrg
 mykeyvaultname
 Mykola
 mykv
-myl
 mylab
 mylb
 mylifecyclecontainer
@@ -16223,7 +16064,6 @@ mytestworkflow
 mythermostattemplate
 mytimer
 mytmarg
-mytmprofile
 mytools
 mytopic
 mytopicname
@@ -16246,7 +16086,6 @@ myvalue
 myvault
 myvaultname
 myview
-myvimss
 Myvirtual
 myvirtualdirectory
 myvlink
@@ -16291,7 +16130,6 @@ Mzw
 Naas
 nabennet
 nabhishek
-nac
 nachakra
 NACLC
 NACLs
@@ -16343,7 +16181,6 @@ namings
 namlen
 NAMNE
 namspace
-Nandeesh
 Nandini
 Nandinim
 Nandita
@@ -16374,7 +16211,6 @@ nativeclient
 natrule
 natrulecollection
 natrulecollectiongroup
-Naviga
 nawj
 nbb
 nbc
@@ -16492,12 +16328,10 @@ neousys
 ner
 nerc
 Nerdio
-nessageld
 nestedendpoints
 nestedsub
 nestedtemplates
 nestlevel
-Neswork
 netadapter
 netadapterrss
 netaddr
@@ -16576,7 +16410,6 @@ netweaver
 netwitness
 Netwo
 networ
-networe
 networkaccess
 networkaccesstraffic
 networkaddress
@@ -16656,7 +16489,6 @@ newendpoint
 newerrevision
 newfile
 newgroup
-Newgroupt
 newguid
 newheader
 newhub
@@ -16845,7 +16677,6 @@ nltest
 nlu
 nmap
 NMB
-Nmber
 nmbr
 nmcli
 nme
@@ -17297,7 +17128,6 @@ ntlmv
 NTM
 NTMw
 NTPv
-ntpvimjtmpronie
 ntro
 ntrogh
 ntry
@@ -17326,7 +17156,6 @@ nullok
 NULLSMBMULTICHANNELENABLED
 numa
 numactl
-Numbercrange
 NUMBERIC
 Numberof
 numbits
@@ -17508,10 +17337,8 @@ oaasguestconfigusgvs
 oaasguestconfigwcuss
 oaasguestconfigwes
 oaasguestconfigwus
-OAdd
 oai
 Oaj
-oan
 OASC
 OASy
 OATP
@@ -17584,7 +17411,6 @@ odc
 ODdj
 Oded
 ODEQ
-ODER
 odfc
 ODFM
 ODg
@@ -17628,11 +17454,9 @@ offsite
 Offul
 OFg
 ofhmazgddj
-OFL
 ofolder
 ofs
 ofshezaf
-ofthe
 oga
 ogc
 ogcmaplayer
@@ -17694,7 +17518,6 @@ OMAC
 omafnan
 oman
 OMAT
-ome
 omfile
 omfwd
 omg
@@ -17721,7 +17544,6 @@ oncallteam
 Onco
 oncophenotype
 Oncore
-ond
 ondemand
 ondemandmpi
 ondemandmpipg
@@ -17752,7 +17574,7 @@ onhandshake
 onid
 onidrange
 ONivq
-onlin
+onlined
 onlineendpoints
 onlinemeeting
 onlyifnotexists
@@ -17776,9 +17598,7 @@ onpremvnet
 onscreen
 onsite
 ontap
-ontesd
 ontime
-ontocrver
 onvif
 onwokolo
 oob
@@ -17786,7 +17606,6 @@ oobe
 ooc
 Oocyi
 oom
-oon
 ooo
 OOOOO
 ooproc
@@ -17896,7 +17715,6 @@ optionsgroup
 optix
 optmem
 optmz
-optoste
 optouts
 Optus
 opu
@@ -18172,7 +17990,6 @@ padend
 padleft
 padmalathas
 padstart
-Paenew
 Paessler
 pageable
 pageblob
@@ -18193,7 +18010,6 @@ palatter
 pallakatos
 palo
 paloalto
-pana
 pandp
 panelized
 pango
@@ -18206,7 +18022,6 @@ paperbits
 Papertrail
 PApf
 parag
-Paraiog
 Parakh
 parallelcp
 PARALLELIPGROUPRG
@@ -18289,7 +18104,6 @@ Passwordlessflex
 passwordreset
 passwordvalue
 Passxword
-Pasword
 patchassessment
 patchassessmentresources
 patchassessmentresults
@@ -18324,9 +18138,7 @@ pauloliveria
 pauls
 paulth
 Pauseor
-pavanced
 pavelprystinka
-Paword
 PAYARAMICRO
 payg
 paygo
@@ -18827,9 +18639,6 @@ poststarthook
 posttodo
 potentialoutages
 potsang
-poucies
-Pouicies
-Povaog
 powerapps
 powerbasenz
 powerbi
@@ -18840,8 +18649,6 @@ poweredge
 poweroff
 powerquery
 powerscale
-Powershe
-powershellgallery
 powershellget
 powershellnotfound
 powershelltier
@@ -18945,7 +18752,6 @@ preinstalls
 preintegrated
 prelink
 prelinking
-prelosd
 premeeting
 premerger
 premergerscenario
@@ -18980,6 +18786,7 @@ prerendered
 prereq
 prerequ
 prerequisitesforreceivingtoazuresqlorsynapse
+prerequisitesforreceivingtoazuresynapseworkspacepool
 prerequisitesforsharingazuresqlorsynapse
 prerequisitesforsharingazuresynapseworkspace
 prerequisities
@@ -19057,6 +18864,7 @@ privateendpoint
 privateendpointconnection
 privateendpointconnectionid
 privateendpointconnectionproxies
+privateendpointconnectionproxiesazureasyncoperation
 privateendpointredirectmaps
 privateendpointsubnet
 privateendpointsubnetname
@@ -19134,7 +18942,6 @@ productsportal
 productsserver
 producttracking
 produire
-produt
 prodvg
 proect
 profileaccount
@@ -19173,7 +18980,6 @@ projectx
 proliant
 promisc
 promptflow
-Pronafdna
 proofpoint
 propertie
 propertiescheck
@@ -19255,6 +19061,7 @@ psamband
 Psampler
 psapi
 psapplicationgatewayfirewallpolicysettings
+psapplicationgatewaywebapplicationfirewallpolicy
 pscloud
 pscore
 PSCRED
@@ -19335,7 +19142,6 @@ publicipbastion
 publicipdns
 publicipname
 publicipprefixes
-Publicl
 publicloadbalancer
 publicname
 publicnetworkaccess
@@ -19736,7 +19542,6 @@ qzd
 QZo
 QZVSQ
 raan
-raat
 raboilla
 racadm
 racdba
@@ -19786,8 +19591,6 @@ Ramazindrazana
 rambk
 ramirez
 ramithar
-ranadata
-ranasta
 RANCAAQn
 RANDFILE
 randio
@@ -19804,10 +19607,8 @@ randrepeat
 randrw
 randwrite
 rankby
-ranlian
 ransomware
 raosanat
-RAQA
 rarayudu
 rasdial
 rashi
@@ -20085,7 +19886,6 @@ regiion
 reginahack
 reginfo
 regionagg
-regionaggeh
 REGIONCODE
 regionid
 regioninfo
@@ -20255,7 +20055,6 @@ replatform
 replatforming
 replatorming
 replaycheck
-Replcated
 REPLCONF
 REPLCONTROL
 REPLICAOF
@@ -20454,7 +20253,6 @@ restapi
 RESTARTHOSTS
 restartmodule
 RESTd
-reste
 resteasy
 restmethod
 restoreasfiles
@@ -20506,7 +20304,6 @@ retirepolicy
 RETN
 retpol
 retrans
-Retresh
 retriable
 retrievegroups
 retrieveorder
@@ -20750,7 +20547,6 @@ ronai
 ronhogue
 Rony
 roobo
-Roome
 roomid
 roomscallquickstart
 roomsquickstart
@@ -20910,7 +20706,6 @@ rta
 RTapp
 Rtb
 Rtc
-RTED
 rtept
 RTest
 rthorn
@@ -21095,7 +20890,6 @@ salin
 salloc
 saloniyadav
 saltedweblogs
-Saltware
 Salut
 sambadebug
 sameeksha
@@ -21107,7 +20901,6 @@ sami
 samlp
 samlssosessionprovider
 samltest
-Sammamish
 sampl
 sampleaccount
 sampleapp
@@ -21242,7 +21035,7 @@ saphanasrmultitarget
 saphanasystem
 saphanavm
 saphascriptco
-saphostagent
+SAPHOSTAGENT
 saphostctrl
 saphostexec
 sapinit
@@ -21297,13 +21090,11 @@ sapservice
 sapshare
 sapsid
 sapsnc
-SAPSQ
 sapsso
 sapstar
 sapstart
 sapstartsrv
 sapsys
-SAPSYSMF
 SAPTEST
 saptmp
 saptools
@@ -21324,7 +21115,6 @@ sarahlipsey
 Sarama
 sarath
 saravi
-sared
 SArg
 SArm
 Sarts
@@ -21397,7 +21187,6 @@ sbr
 sbranch
 sbranchbgp
 sbreingold
-sbscption
 SBSZX
 sbtoeventgrid
 sbtoeventgriddiagram
@@ -21597,10 +21386,8 @@ searchservice
 searchterm
 searchtweets
 searchurl
-Searcng
 seasonalfield
 Seata
-seayimine
 seazrg
 sebastianburckhardt
 SECADM
@@ -21618,7 +21405,6 @@ sechad
 sechadoopcontoso
 secinfo
 secip
-Secity
 Seckom
 SECLEVEL
 SECM
@@ -21798,11 +21584,9 @@ sentinelplatformservices
 sentinelresourceid
 Sentire
 Sentrium
-Seny
 seo
 seoapr
 seohack
-seooaosecaesca
 SEPA
 Sepc
 Seperated
@@ -21811,7 +21595,6 @@ sepolicy
 sequencenumber
 sequencestart
 sequencestop
-Seraized
 serde
 SERDEPROPERTIES
 sergaz
@@ -21819,14 +21602,10 @@ serializationexception
 serializationsettings
 serializeable
 serialnumber
-serie
 seriessets
 serilog
-Seript
 serivces
-sermines
 serooney
-Serpt
 Servent
 serveraddress
 serverbusy
@@ -22100,7 +21879,6 @@ shanyu
 shapathak
 shapechanged
 Shapefiles
-sharec
 sharedabc
 sharedaccessauthorizationrule
 SHAREDACCESSKEYNAME
@@ -22173,7 +21951,6 @@ shmck
 SHnbn
 shoasnap
 shoebox
-Shoning
 shopcontoso
 shopify
 shopkart
@@ -22367,10 +22144,14 @@ skipcovered
 skipcreate
 skipfaultyfilesforbidden
 skipfish
+skipforbiddenfilenotsupportedfornondirectbinarycopy
 skipforbiddenfilenotsupportedforthisconnector
+skipinconsistencydatanotsupportedfornondirectbinarycopy
+skipinvalidfilenamenotsupportedfornondirectbinarycopy
 skipinvalidfilenamenotsupportedforsink
 skipinvalidfilenamenotsupportedforsource
 skiplinecount
+skipmissingfilenotsupportedfornondirectbinarycopy
 skipstring
 skiptoken
 skipvalidation
@@ -22397,7 +22178,6 @@ Skytap
 skyvia
 slackaudit
 slas
-Slast
 SLAVEOF
 slb
 slcryptokernal
@@ -22405,7 +22185,6 @@ sldapd
 sle
 sleeptimeinmillisbetweensynccycle
 slesmsscl
-SLESS
 sliceruns
 slideshow
 SLIDINGWINDOW
@@ -22554,7 +22333,6 @@ snprint
 snsapi
 sntdom
 SNTP
-snuserver
 SNV
 Snvdkbkdsb
 SNW
@@ -22574,7 +22352,6 @@ socketresources
 SOCs
 soderholmd
 SODIMM
-soecat
 SOEs
 sofiar
 sofs
@@ -22591,7 +22368,6 @@ softwareservices
 softwareupdateconfigurationruncontext
 softwareupdateprofile
 softwareupdates
-Sofware
 sofwaremanagement
 sogangul
 Sohonet
@@ -22614,7 +22390,6 @@ somemaliciousdomain
 somepath
 somepoweruser
 someproperty
-Somer
 somerandomkey
 somestaticname
 somestaticvalue
@@ -22720,7 +22495,6 @@ spcontososbusns
 spctl
 spcustomtopic
 speakerauthorizations
-specfic
 specity
 specversion
 Speechor
@@ -22802,7 +22576,6 @@ sproc
 SProtection
 spsbus
 spsig
-SPSO
 SPSSO
 SPUs
 spx
@@ -22921,10 +22694,8 @@ sra
 SRADIUS
 srah
 srahaman
-Sranalag
 srandmember
 sravanthivelidandla
-sravus
 Srb
 srbac
 srcapp
@@ -23155,10 +22926,8 @@ staticwebapp
 stationname
 statirc
 statis
-Stato
 Statsig
 statsmetadata
-Statu
 statuscheck
 statuscode
 statusdir
@@ -23183,7 +22952,6 @@ stefanazaric
 stegag
 Stemmons
 stempesta
-Stemuiises
 stes
 Stest
 stestdeploy
@@ -23204,7 +22972,6 @@ stgpjqep
 stig
 Stijn
 stintersects
-stionsy
 stix
 stixobjects
 STLEMPGYu
@@ -23216,8 +22983,6 @@ sto
 stocksymbol
 Stocktake
 SToken
-stom
-Stonashored
 stonith
 stopfail
 stoplog
@@ -23357,7 +23122,6 @@ streamreader
 streamsets
 streamstats
 streamwriter
-stred
 stridfng
 striim
 Strimzi
@@ -23386,7 +23150,6 @@ stsoneff
 stsservicecookie
 ststv
 stt
-Stucko
 stuidio
 Stuxnet
 stv
@@ -23522,15 +23285,12 @@ subupload
 subviews
 subvolume
 successfactors
-successfuly
-Successlul
 succseffuly
 suceeded
 sudesai
 sudhirsneha
 sudoer
 sudoku
-Sueceestul
 sufenfong
 Sufffix
 sufon
@@ -23552,7 +23312,6 @@ sundraman
 sunion
 sunionstore
 sunishvohra
-Sunnyslope
 sunrpc
 suoid
 Supabase
@@ -23623,7 +23382,7 @@ svcstatus
 SVE
 sveldurthi
 Svenska
-svi
+SVI
 SVKR
 svm
 svmadm
@@ -23651,7 +23410,6 @@ swapon
 swbela
 swcenter
 SWe
-Swecesstul
 swedencentral
 SWFF
 swghimire
@@ -23804,7 +23562,6 @@ sysutility
 sysv
 sysvol
 sysvolshare
-Sytem
 Syw
 syx
 syxxcfile
@@ -23838,11 +23595,10 @@ TABNAM
 tabrmd
 tabsolute
 tabulartop
-tac
+Tac
 TACACS
 tacitred
 TAddon
-tage
 TAgent
 tagline
 tagnamespaces
@@ -23874,9 +23630,6 @@ Tamares
 Tamika
 tamr
 tamram
-tanaiog
-tanalnared
-tanastared
 tanmayeekamath
 tanmaygore
 tanyamarton
@@ -23887,7 +23640,6 @@ TApps
 tarademo
 tarballs
 tarcher
-Taree
 targetakscluster
 targetappid
 targetappname
@@ -24131,7 +23883,6 @@ temprary
 tempreport
 tempscript
 tempupdate
-tems
 temurin
 tenablecorenessus
 tenablecorenessusbyol
@@ -24144,7 +23895,6 @@ tenantbackfillstatus
 tenantconfigurations
 tenantdomain
 tenantid
-Tenantiddogingom
 TENANTKEY
 tenantmove
 tenantmovedemowsstorage
@@ -24180,10 +23930,8 @@ terrainrgb
 terratest
 tertiles
 Tes
-tesa
 tesdir
 tesdirf
-Tesi
 testaccount
 TESTAD
 testag
@@ -24436,7 +24184,6 @@ tilelayer
 tilelayeroptions
 tileset
 tilesetid
-Timea
 timeboxed
 Timeboxing
 timechart
@@ -24622,7 +24369,6 @@ tomkerkhove
 Tomstone
 tomtom
 tomvcassidy
-tonaiog
 tonau
 Tongass
 tonontrustedvmnotallowed
@@ -24636,7 +24382,6 @@ tophpalmer
 tophysicalzone
 topicfiltersampletopic
 topicid
-Topicn
 topicname
 topicproperties
 topicresourceid
@@ -24724,7 +24469,6 @@ trafficmanagerprofiles
 trafficmanagerusermetricskeys
 trafficoptions
 trafficview
-traffiema
 trailflow
 trainedmodels
 trainingstatus
@@ -24805,7 +24549,6 @@ TRole
 tromboning
 tropico
 troyhopwood
-trstaling
 tru
 truebot
 Trule
@@ -24875,9 +24618,7 @@ tto
 ttorble
 ttp
 ttrpc
-TTT
 ttup
-TUbuntu
 tulikac
 tumblingwindow
 tunables
@@ -25007,7 +24748,6 @@ ubuntvm
 UCaa
 UCDO
 UCF
-uckage
 uclibc
 UCM
 UCNI
@@ -25069,7 +24809,6 @@ UIH
 uilibraryquickstart
 uip
 UIS
-Uist
 uitlization
 UIxm
 Ujlw
@@ -25133,7 +24872,6 @@ uncompresses
 UNCONN
 Uncorr
 Und
-Unda
 undelegate
 undeleteasync
 undeleteblobcontainer
@@ -25174,7 +24912,6 @@ unifiedssd
 unifiedssp
 UNILOG
 uniname
-unine
 Uninet
 uninstalls
 unionoperator
@@ -25243,7 +24980,6 @@ Uoj
 UOLDIVEO
 uom
 UOMx
-Updaces
 updateable
 updateasync
 updatecertificate
@@ -25257,7 +24993,6 @@ updatedigitaltwin
 updatedlistener
 updatedpropertyname
 updatedsubnet
-Updatedversion
 updategatewaysettings
 updatehostname
 updatemanifest
@@ -25397,6 +25132,7 @@ userandgroup
 userassigned
 userassignedidentites
 userassignedidentity
+userassignedidentitydoesnothavegetpermissiononkeyvault
 userassignedidentityid
 userassignedidentityname
 userb
@@ -25463,7 +25199,6 @@ usestaskdependencies
 usesuper
 usesystemdefault
 usesystemtruststore
-Uset
 Usettings
 USEV
 usewebactivity
@@ -25577,7 +25312,6 @@ vaboya
 vacp
 VADP
 Vae
-Vaev
 Vafoj
 vaidehikher
 VAIO
@@ -25818,11 +25552,9 @@ videofiles
 videoflow
 videooptions
 videoscreensharing
-videostesthim
 videostreamrenderer
 videostreamrendererview
 viders
-Vidia
 viewability
 viewerhost
 viewgw
@@ -25891,7 +25623,6 @@ visualise
 visualizability
 visualstudiocredential
 visualstudioplustools
-Visw
 viusal
 vivekkalra
 vix
@@ -26046,7 +25777,6 @@ vnettest
 vnettestgroup
 vnetthmimleef
 vnetv
-VNETZIBb
 vnext
 vnf
 vng
@@ -26150,7 +25880,6 @@ vscodebox
 vscpp
 vsdbg
 vserver
-Vset
 vsftpd
 vsite
 vsm
@@ -26258,8 +25987,6 @@ walkthru
 wallmount
 wals
 walterm
-waming
-wana
 wandisco
 wanlwanl
 wantest
@@ -26433,7 +26160,6 @@ wfs
 wfsclient
 wfsserviceoptions
 wgc
-WGesie
 WGhy
 wgries
 wgs
@@ -26452,7 +26178,6 @@ whereoperator
 wherescape
 whhender
 Whia
-whichis
 whiteboard
 Whitelistings
 whitenoise
@@ -26484,7 +26209,6 @@ wikis
 wil
 wildcardpathsinknotsupported
 wildfly
-willbe
 williamzhao
 winad
 winbind
@@ -26528,7 +26252,6 @@ winioctl
 Winkler
 winlogon
 winmgmt
-winmsssofs
 winpty
 winre
 winrm
@@ -26559,7 +26282,6 @@ withconnection
 Withcta
 withsecure
 withsource
-withthe
 witnessabc
 WITSML
 wix
@@ -26609,15 +26331,12 @@ wn't
 WNOl
 wns
 WNSBODYTEMPLATE
-Wnt
 WNvjx
 wo'nt
 wolfssl
 Wonderware
 woodgrove
-Woodmont
 woodstox
-Wor
 wordcountjava
 wordcountout
 wordmarks
@@ -26691,7 +26410,6 @@ wrl
 WRpd
 Wrrw
 WRs
-WRTUAL
 WSASHCI
 WSB
 WSC
@@ -26757,7 +26475,6 @@ WWID
 wwilliams
 WWMX
 wwps
-wwroot
 WWWAUTHENTICATE
 wwwwroot
 WWz
@@ -26959,7 +26676,6 @@ Xrp
 XRs
 XRuntime
 xrw
-XSA
 xsave
 xscs
 XSecret
@@ -27062,7 +26778,6 @@ YARA
 yassirb
 yassirbisteni
 yast
-Yasta
 Yav
 yavovaultecy
 yaxis
@@ -27075,7 +26790,6 @@ YCH
 ycolumns
 YCZJa
 YDI
-Ydir
 YEB
 YEGRKd
 yegxkq
@@ -27224,7 +26938,6 @@ Yqdmxg
 yqi
 yqw
 Yqya
-Yrite
 Yrjp
 YSa
 YSE
