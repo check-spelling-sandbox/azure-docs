@@ -34,6 +34,10 @@
 # hex digits including css/html color classes
 (?:[\\0][xX]|\\u\{?|[uU]\+|#x?|%23|&H)[0-9_a-fA-FgGrR]*?[a-fA-FgGrR]{2,}[0-9_a-fA-FgGrR]*(?:[uUlL]{0,3}|[iu]\d+)\b
 
+# hit-count: 1053 file-count: 335
+# Repeated letters
+\b([A-Za-z])\g{-1}{2,}\b
+
 # hit-count: 668 file-count: 171
 # hex runs
 \b(?=(?:[a-fA-F]{0,2}\d)*[a-fA-F]{3})[0-9a-fA-F]{16,}\b
