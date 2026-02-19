@@ -1,6 +1,6 @@
 ---
 title: Yes icon
-description: Green checkmark icon indicates the services the article applies to
+description: Green checkmark icon indicates the services to which the article applies
 services: healthcare-apis
 ms.service: workspace
 ms.topic: include
