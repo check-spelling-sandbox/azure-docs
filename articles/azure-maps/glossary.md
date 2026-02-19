@@ -41,7 +41,7 @@ The following list describes common words used with the Azure Maps services.
 
 <a name="asynchronous-request"></a> **Asynchronous request**: An HTTP request that opens a connection and makes a request to the server that returns an identifier for the asynchronous request, then closes the connection. The server continues to process the request and the user can check the status using the identifier. When the request is finished processing, the user can then download the response. This type of request is used for long running processes.
 
-<a name="autocomplete"></a> **Autocomplete**: A feature in an application that predicts the rest of a word a user is typing.
+<a name="autocomplete"></a> **Autocomplete**: A feature in an application that predicts the rest of a word that a user is typing.
 
 <a name="autosuggest"></a> **Autosuggest**: A feature in an application that predicts logical possibilities for what the user is typing.
 

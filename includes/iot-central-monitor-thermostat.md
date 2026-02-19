@@ -54,7 +54,7 @@ To customize how the **Target Temperature** writable properties display in your 
 
 1. Select **Save**.
 
-The thermostat components in the **Temperature Controller** model include the **Target Temperature** writable property, the device template includes the **Customer Name** cloud property. Create a view an operator can use to edit these properties:
+The thermostat components in the **Temperature Controller** model include the **Target Temperature** writable property, the device template includes the **Customer Name** cloud property. Create a view that an operator can use to edit these properties:
 
 1. Select **Views** and then select the **Editing device and cloud data** tile.
 
