@@ -99,7 +99,7 @@
 (?i)(?<!posteriori)\sand priori\s
 
 # Should be `a`
-\san (?=(?:[b-df-gjklpqtvwz]|h(?!our|s[lv]|tml|ttp|ref)|n(?!ginx|grok|pm)|r(?!c)|s(?!s[ho]|vg))[a-z]|x(?!\d|ml))
+\san (?=(?:[b-df-gjklqtvwz]|h(?!base|our|s[lv]|tml|ttp|ref)|n(?!f|ginx|grok|pm|s[dl])|p(?!n)|r(?![cf])|s(?!s[hos]|vg))[a-z]|x(?!\d|ID|c|ml))
 
 # Articles generally shouldn't be used without a noun and a verb
 # - Perhaps you're missing a verb between the noun and the second article.

@@ -288,7 +288,7 @@ GHSA(?:-[0-9a-z]{4}){3}
 # mount
 \bmount\s+-t\s+(\w+)\s+\g{-1}\b
 # C types and repeated CSS values
-\s(auto|await|buffalo|center|div|inherit|long|LONG|none|normal|solid|thin|transparent|very|VHD)(?:\s\g{-1})+\s
+\s(auto|await|buffalo|center|div|inherit|long|LONG|Nok|none|normal|solid|thin|transparent|very|VHD)(?:\s\g{-1})+\s
 # C enum and struct
 \b(?:enum|struct)\s+(\w+)\s+\g{-1}\b
 # go templates
