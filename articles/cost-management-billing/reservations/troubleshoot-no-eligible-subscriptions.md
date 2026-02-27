@@ -43,7 +43,7 @@ The subscription must be a supported offer type. Supported offer types are: Pay-
 ```
 Subscription not eligible for purchase
 
-This subscription is not eligible for reservation benefit an cannot be used to purchase a reservation.
+This subscription is not eligible for reservation benefit and cannot be used to purchase a reservation.
 ```
 
 :::image type="content" source="./media/troubleshoot-no-eligible-subscriptions/subscription-not-eligible.png" alt-text="Screenshot showing the Subscription not eligible for purchase error message." :::
