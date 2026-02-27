@@ -736,7 +736,7 @@ The following section lists steps necessary to create a VM using `VMConfig` file
         }
     ```
 
-    * **Non-managed and encrypted VMs without Microsoft Entra ID (BEK only)** - For non-managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK only), if source **keyVault/secret are not available** restore the secrets to key vault using the procedure in [Restore an non-encrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS blob (this step isn't required for a data blob). The $dekurl can be fetched from the restored keyVault.
+    * **Non-managed and encrypted VMs without Microsoft Entra ID (BEK only)** - For non-managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK only), if source **keyVault/secret are not available** restore the secrets to key vault using the procedure in [Restore an unencrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS blob (this step isn't required for a data blob). The $dekurl can be fetched from the restored keyVault.
 
     The following script needs to be executed only when the source keyVault/secret isn't available.
 
@@ -763,7 +763,7 @@ The following section lists steps necessary to create a VM using `VMConfig` file
         }
     ```
 
-    * **Non-managed and encrypted VMs without Microsoft Entra ID (BEK and KEK)** - For non-managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK & KEK), if source **keyVault/key/secret are not available** restore the key and secrets to key vault using the procedure in [Restore an non-encrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS blob (this step isn't required for a data blob). The $dekurl and $kekurl can be fetched from the restored keyVault.
+    * **Non-managed and encrypted VMs without Microsoft Entra ID (BEK and KEK)** - For non-managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK & KEK), if source **keyVault/key/secret are not available** restore the key and secrets to key vault using the procedure in [Restore an unencrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS blob (this step isn't required for a data blob). The $dekurl and $kekurl can be fetched from the restored keyVault.
 
     The script below needs to be executed only when the source keyVault/key/secret isn't available.
 
@@ -797,7 +797,7 @@ The following section lists steps necessary to create a VM using `VMConfig` file
 
     * **Managed and encrypted VMs with Microsoft Entra ID (BEK and KEK)** - For managed encrypted VMs with Microsoft Entra ID (encrypted using BEK and KEK), attach the restored managed disks. For in-depth information, see [Attach a data disk to a Windows VM using PowerShell](/azure/virtual-machines/windows/attach-disk-ps).
 
-    * **Managed and encrypted VMs without Microsoft Entra ID (BEK only)** -For managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK only), if source **keyVault/secret are not available** restore the secrets to key vault using the procedure in [Restore an non-encrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS disk (this step isn't required for a data disk). The $dekurl can be fetched from the restored keyVault.
+    * **Managed and encrypted VMs without Microsoft Entra ID (BEK only)** -For managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK only), if source **keyVault/secret are not available** restore the secrets to key vault using the procedure in [Restore an unencrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS disk (this step isn't required for a data disk). The $dekurl can be fetched from the restored keyVault.
 
     The script below needs to be executed only when the source keyVault/secret isn't available.  
 
@@ -818,7 +818,7 @@ The following section lists steps necessary to create a VM using `VMConfig` file
 
     After the secrets are available and the encryption details are set on the OS disk, to attach the restored managed disks, see [Attach a data disk to a Windows VM using PowerShell](/azure/virtual-machines/windows/attach-disk-ps).
 
-    * **Managed and encrypted VMs without Microsoft Entra ID (BEK and KEK)** - For managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK & KEK), if source **keyVault/key/secret are not available** restore the key and secrets to key vault using the procedure in [Restore an non-encrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS disk (this step isn't required for data disks). The $dekurl and $kekurl can be fetched from the restored keyVault.
+    * **Managed and encrypted VMs without Microsoft Entra ID (BEK and KEK)** - For managed, encrypted VMs without Microsoft Entra ID (encrypted using BEK & KEK), if source **keyVault/key/secret are not available** restore the key and secrets to key vault using the procedure in [Restore an unencrypted virtual machine from an Azure Backup recovery point](backup-azure-restore-key-secret.md). Then execute the following scripts to set encryption details on the restored OS disk (this step isn't required for data disks). The $dekurl and $kekurl can be fetched from the restored keyVault.
 
     The following script needs to be executed only when the source keyVault/key/secret isn't available.
 
