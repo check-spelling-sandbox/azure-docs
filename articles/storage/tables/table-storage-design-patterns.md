@@ -171,7 +171,7 @@ In this example, step 4 inserts the employee into the **Archive** table. It coul
 
 It is important that the operations in steps **4** and **5** must be *idempotent* in case the worker role needs to restart the archive operation. If you are using the Table service, for step **4** you should use an "insert or replace" operation; for step **5** you should use a "delete if exists" operation in the client library you are using. If you are using another storage system, you must use an appropriate idempotent operation.  
 
-If the worker role never completes step **6**, then after a timeout the message reappears on the queue ready for the worker role to try to reprocess it. The worker role can check how many times a message on the queue has been read and, if necessary, flag it is a "poison" message for investigation by sending it to a separate queue. For more information about reading queue messages and checking the dequeue count, see [Get Messages](/rest/api/storageservices/Get-Messages).  
+If the worker role never completes step **6**, then after a timeout, the message reappears on the queue ready for the worker role to try to reprocess it. The worker role can check how many times a message on the queue has been read and, if necessary, flag it is a "poison" message for investigation by sending it to a separate queue. For more information about reading queue messages and checking the dequeue count, see [Get Messages](/rest/api/storageservices/Get-Messages).  
 
 Some errors from the Table and Queue services are transient errors, and your client application should include suitable retry logic to handle them.  
 
