@@ -28,7 +28,7 @@ The term 'contact center' captures a large family of applications diverse across
 
 A typical multi-channel contact center may start with the most efficient form of communication: text chat with a AI bot. AI bots can authenticate the customer, answer simple questions, solicit information about customer intent, and otherwise fully satisfy many customer engagement use cases. However, most contact centers have a pathway to progressively escalate customers to more synchronous and intensive interaction: chat with a human agent, voice with a bot, and finally voice and video with a human agent.
 
-:::image type="content" source="media/contact-center/contact-center-progression.svg" alt-text="Screenshot that shows a data flow diagram for chat a with a bot agent.":::
+:::image type="content" source="media/contact-center/contact-center-progression.svg" alt-text="Screenshot that shows a data flow diagram for a chat with a bot agent.":::
 
 
 Developers have the option of using Azure Communication Services for all of these phases or a select few. For example, you may implement your own text chat system and then use Azure solely for video calling. For more information, see any of the articles linked from this table:
