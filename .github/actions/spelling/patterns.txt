@@ -1,5 +1,7 @@
 # See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
 
+B2C(?=[A-Za-z])
+
 # Automatically suggested patterns
 
 # hit-count: 44561 file-count: 9013
