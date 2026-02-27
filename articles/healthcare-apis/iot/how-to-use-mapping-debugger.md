@@ -68,7 +68,7 @@ For this troubleshooting example, we're using a test device message that is [mes
 
 4. Once the device and FHIR destination mappings are successfully saved, a confirmation from **Notifications** is created within the Azure portal.
 
-   :::image type="content" source="media\how-to-use-mapping-debugger\mapping-debugger-successful-save.png" alt-text="Screenshot of the Mapping debugger and a successful the save of the device and FHIR destination mappings." lightbox="media\how-to-use-mapping-debugger\mapping-debugger-successful-save.png":::
+   :::image type="content" source="media\how-to-use-mapping-debugger\mapping-debugger-successful-save.png" alt-text="Screenshot of the Mapping debugger and a successful save of the device and FHIR destination mappings." lightbox="media\how-to-use-mapping-debugger\mapping-debugger-successful-save.png":::
 
 ## View a normalized message and FHIR Observation
 
