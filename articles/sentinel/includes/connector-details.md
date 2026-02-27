@@ -4577,7 +4577,7 @@ The [OneLogin](https://www.onelogin.com/) data connector provides the capability
 
 **Supported by:** [OneTrust, LLC](https://my.onetrust.com/s/contactsupport?language=en_US)
 
-The OneTrust connector for Microsoft Sentinel provides the capability to have near real time visibility into where sensitive data has been located or remediated across across Google Cloud and other OneTrust supported data sources.
+The OneTrust connector for Microsoft Sentinel provides the capability to have near real time visibility into where sensitive data has been located or remediated across Google Cloud and other OneTrust supported data sources.
 
 **Log Analytics table(s):**  
 
