@@ -95,7 +95,7 @@ Example /22 CIDR network address block **10.31.0.0/22** is divided into the foll
 |Reserved | /27 | Reserved Space. | 10.31.0.192/27 |
 
 > [!Note]
-> For Azure VMware Solution Gen 2 deployments, customers must now allocate an two additional /24 subnets for HCX management and uplink, in addition to the /22 entered during SDDC deployment. These additional /24s are not required for Gen 1.
+> For Azure VMware Solution Gen 2 deployments, customers must now allocate two additional /24 subnets for HCX management and uplink, in addition to the /22 entered during SDDC deployment. These additional /24s are not required for Gen 1.
 
 ## Next steps
 
