@@ -144,7 +144,7 @@ After the virtual switches are created, you can enable the switches for Kubernet
 
 1. In the local UI, go to the **Kubernetes** page.
 
-   ![Screenshot of the the Kubernetes page of the local UI for two node.](./media/azure-stack-edge-pro-r-deploy-configure-network-compute-web-proxy/azure-stack-edge-kubernetes-workload-selection.png)
+   ![Screenshot of the Kubernetes page of the local UI for two node.](./media/azure-stack-edge-pro-r-deploy-configure-network-compute-web-proxy/azure-stack-edge-kubernetes-workload-selection.png)
 
 1. Select the virtual switch you want to enable for Kubernetes compute traffic.
 1. Assign **Kubernetes node IPs**. These static IP addresses are for the Kubernetes VMs.  

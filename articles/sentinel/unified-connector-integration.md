@@ -118,7 +118,7 @@ To verify that the Okta connector is successfully ingesting data into your Log A
 
 > [!NOTE]
 >
-> - It takes up to 30 minutes from when you create the the connector instance for the *OktaSystemLogs* table to appear, containing your Okta system logs.
+> - It takes up to 30 minutes from when you create the connector instance for the *OktaSystemLogs* table to appear, containing your Okta system logs.
 > - The connector will only ingest system logs from one hour before the instance was created.
 
 ## Considerations and limitations

@@ -82,7 +82,7 @@ The following table lists the fields that can appear in the HTTP response when r
 | severity (JSON)<br>Severity (XML)  | `ty`  | This output is in the [tm] response element. See [DelayMagnitude]:  (`ty`) for more info.  |
 | severityScore (JSON)<br>SeverityScore (XML)              | Not supported | |
 | Start (JSON)<br>StartTimeUTC (XML)  | `sd`  | This output is in the [tm] response element of Azure Maps. The date is described in the ISO8601 format and includes time in UTC.  |
-| title (JSON)<br>Title (XML)  | See description | The `f` output in the [tm] response element of Azure Maps provides the name of the intersection or location where the traffic caused by the the incident starts and can serve as an alternative to the Bing Maps `title` output.  |
+| title (JSON)<br>Title (XML)  | See description | The `f` output in the [tm] response element of Azure Maps provides the name of the intersection or location where the traffic caused by the incident starts and can serve as an alternative to the Bing Maps `title` output.  |
 | toPoint (JSON)<br>ToPoint (XML)  | See description | The `t` output in the [tm] response element of Azure Maps provides the name of the intersection or location where the traffic due to the incident ends and can serve as an alternative to the Bing Maps `toPoint` output.  |
 | type (JSON)<br>Type (XML)  | `c`  | The `c` output in the [tm] response element of Azure Maps provides the cause of the incident, if available.  |
 

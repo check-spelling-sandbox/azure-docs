@@ -41,7 +41,7 @@ The following list of capabilities is supported for scenarios where at least one
 | | Add an agent to an ongoing call | ✔️ | ✔️ |
 | | Add external phone number from an ongoing call | ✔️  | ✔️ |
 | | Add a Teams user to an ongoing call | ❌ | ❌ |
-| | Cancel an already initiated add participant request, as long as the the target agent / phone number has yet to accept the call invite | ❌ | ✔️ |
+| | Cancel an already initiated add participant request, as long as the target agent / phone number has yet to accept the call invite | ❌ | ✔️ |
 | | Remove a call participant from ongoing call | ✔️ | ✔️  |
 | | Dial out to same phone number multiple times in a call | ❌ | ❌ |
 | | Transfer the end user from ongoing 1:1 call to another agent or external phone number | ✔️ | ✔️ |

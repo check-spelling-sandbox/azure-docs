@@ -49,7 +49,7 @@ In this tutorial, you learn how to:
 1. Determine the priority of the rules within your configuration by using the Move up, Move down, and Move to top buttons. The priority is in ascending order, meaning the rule first listed is the most important rule.
 
     > [!TIP]
-    > If you want to verify when the changes are propagated to Azure Front Door (classic), you can create a custom response header in the rule using the the following example. You can add a response header `_X-<RuleName>-Version_` and change the value each time the rule is updated.
+    > If you want to verify when the changes are propagated to Azure Front Door (classic), you can create a custom response header in the rule using the following example. You can add a response header `_X-<RuleName>-Version_` and change the value each time the rule is updated.
     >  
     > :::image type="content" source="./media/front-door-rules-engine/rules-version.png" alt-text="Screenshot of custom version header rule." lightbox="./media/front-door-rules-engine/rules-version-expanded.png":::
     > After the changes are updated, you can go to the URL to confirm the rule version being invoked:

@@ -427,6 +427,6 @@ Additional articles about Azure Policy and Machine Configuration:
 
 - [Azure Policy guest configuration](../concepts/guest-configuration.md).
 - [Regulatory Compliance](../concepts/regulatory-compliance.md) overview.
-- Review the the baseline content for past Windows Server Editions [WS Baseline Content](../samples/guest-configuration-baseline-windows.md).
+- Review the baseline content for past Windows Server Editions [WS Baseline Content](../samples/guest-configuration-baseline-windows.md).
 - Review [Understanding policy effects](../concepts/effects.md).
 - Learn how to [remediate non-compliant resources](../how-to/remediate-resources.md).

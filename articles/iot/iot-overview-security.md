@@ -8,7 +8,7 @@ ms.topic: conceptual
 ms.custom: horz-security
 ms.date: 06/13/2025
 ms.author: dobett
-# Customer intent: As a solution builder, I want a high-level overview of the the key concepts around securing a typical Azure IoT solution.
+# Customer intent: As a solution builder, I want a high-level overview of the key concepts around securing a typical Azure IoT solution.
 ---
 
 # Secure your IoT solutions

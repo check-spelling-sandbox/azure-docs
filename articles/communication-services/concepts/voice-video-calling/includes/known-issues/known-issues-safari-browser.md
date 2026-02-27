@@ -83,7 +83,7 @@ ___
 ### Video issues on iOS 17+ when an iOS user tries to use Siri during a call
 **iOS version:** iOS versions 17 and up.<br>
 **Azure Communication Service calling SDK version:** All.<br>
-**Description:**  When an iOS user tries to enable Siri in the middle of the web mobile call can cause the the incoming video could become frozen and take a few seconds to recovers.<br>
+**Description:**  When an iOS user tries to enable Siri in the middle of the web mobile call can cause the incoming video could become frozen and take a few seconds to recovers.<br>
 
 ### Camera preview resolution issue in web calls when using iOS 16.3 to 17.3.1
 **iOS version:** iOS versions from 16.3 up to 17.3.1.<br>

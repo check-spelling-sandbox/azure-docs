@@ -49,7 +49,7 @@ This method uses the managed identity of the Azure IoT Operations instance to au
     | Settings              | Description                                                                           |
     |-----------------------|---------------------------------------------------------------------------------------|
     | Bootstrap server      | The bootstrap server address is used for the hostname property in data flow endpoint. |
-    | Topic name            | The event hub name is used as the Kafka topic and is of the the format *es_aaaaaaaa-0000-1111-2222-bbbbbbbbbbbb*. |
+    | Topic name            | The event hub name is used as the Kafka topic and is of the format *es_aaaaaaaa-0000-1111-2222-bbbbbbbbbbbb*. |
 
 
 # [SASL authentication](#tab/sasl)
@@ -64,7 +64,7 @@ This method uses the managed identity of the Azure IoT Operations instance to au
     | Settings              | Description                                                                           |
     |-----------------------|---------------------------------------------------------------------------------------|
     | Bootstrap server      | The bootstrap server address is used for the hostname property in data flow endpoint. |
-    | Topic name            | The event hub name is used as the Kafka topic and is of the the format *es_aaaaaaaa-0000-1111-2222-bbbbbbbbbbbb*. |
+    | Topic name            | The event hub name is used as the Kafka topic and is of the format *es_aaaaaaaa-0000-1111-2222-bbbbbbbbbbbb*. |
     | Connection string-primary key | The connection string with the primary key. |
 
 ---

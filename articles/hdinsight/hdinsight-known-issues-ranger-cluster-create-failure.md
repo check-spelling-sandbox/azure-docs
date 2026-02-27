@@ -10,7 +10,7 @@ ms.date: 10/12/2025
 
 **Issue published date**: December 10, 2025
 
-In the Azure HDInsight release, the Ranger was mistakenly designed to Managed Identity for authentication. This regression is fixed in an latest release.
+In the Azure HDInsight release, the Ranger was mistakenly designed to Managed Identity for authentication. This regression is fixed in the latest release.
 
 > [!IMPORTANT]  
 > This issue affects clusters with image version 5.1.3000.0.2501080039. Learn how to [view the image version of an HDInsight cluster](./view-hindsight-cluster-image-version.md). 
