@@ -67,7 +67,7 @@ To create a GitHub secret, follow these steps:
 
 ## Create a GitHub workflow
 
-The GitHub workflow is an automated procedure that you add to your repository. Workflows are made up of one or more jobs and can be scheduled or triggered by an event. In this step, you create a workflow the deploys your custom policy.
+The GitHub workflow is an automated procedure that you add to your repository. Workflows are made up of one or more jobs and can be scheduled or triggered by an event. In this step, you create a workflow to deploy your custom policy.
 
 To create a workflow, follow these steps:
 
