@@ -34,7 +34,7 @@ The following sample script accomplishes these steps:
     - This step assumes that the workspace with the same name resource group and same values is still available. 
     - If not, recreate the dropped workspace with the same workspace name, resource group name, region, and all the same values from prior dropped workspace. 
     
-1. Construct a string the resource ID of the sql pool you wish to recover. The format requires `Microsoft.Sql`. This includes the date and time when the server was dropped.
+1. Construct a string containing the resource ID of the sql pool you wish to recover. The format requires `Microsoft.Sql`. This includes the date and time when the server was dropped.
 
 1. Restore the database from the dropped workspace. Restore to the target workspace with the source SQL pool.
 
