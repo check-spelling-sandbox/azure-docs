@@ -7,7 +7,7 @@ author: btardif
 ms.author: byvinyal
 ms.service: azure-app-service
 
-# Customer intent: As a developer, I want to learn about about the Recommended services feature so that I can use proven patterns to help me effectively structure my apps.  
+# Customer intent: As a developer, I want to learn about the Recommended services feature so that I can use proven patterns to help me effectively structure my apps.  
 
 ---
 
