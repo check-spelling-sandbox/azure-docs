@@ -10,7 +10,7 @@ services: iot-central
 ms.custom: device-developer
 # This article applies to solution builders and device developers.
 
-#customer intent: As an solution builders, I want define the device types that can connect to my application so that I can manage and monitor them effectively.
+#customer intent: As a solution builder, I want define the device types that can connect to my application so that I can manage and monitor them effectively.
 ---
 
 # Create a device template in your Azure IoT Central application
