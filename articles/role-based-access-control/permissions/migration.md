@@ -390,7 +390,7 @@ Azure service: [Azure Migrate](/azure/migrate/migrate-services-overview)
 > | Microsoft.Migrate/assessmentProjects/privateEndpointConnections/delete | Delete a Private Endpoint Connection |
 > | Microsoft.Migrate/assessmentProjects/privateLinkResources/read | Get Private Link Resource |
 > | Microsoft.Migrate/assessmentProjects/projectsummary/read | Gets the properties of project summary |
-> | Microsoft.Migrate/assessmentProjects/replicationplannerjobs/read | Gets the properties of an replication planner jobs |
+> | Microsoft.Migrate/assessmentProjects/replicationplannerjobs/read | Gets the properties of replication planner jobs |
 > | Microsoft.Migrate/assessmentProjects/sapAssessmentOptions/read | Gets the properties of the sap AssessmentOptions |
 > | Microsoft.Migrate/assessmentProjects/sapAssessments/read | Gets the properties of the sap Assessment |
 > | Microsoft.Migrate/assessmentProjects/sapAssessments/write | Creates a sap Assessment or updates an existing sap Assessment |
