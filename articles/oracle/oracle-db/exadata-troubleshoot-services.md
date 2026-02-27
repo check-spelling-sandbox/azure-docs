@@ -27,7 +27,7 @@ There are IP address requirement differences between Oracle Database@Azure and O
 
 ## Private DNS Zone Limitation
 
-When provisioning Exadata Services, a private DNS zone can only select zones with four labels or less. For example, a.b.c.d is allowed, while a.b.c.d.e is not allowed.
+When provisioning Exadata Services, a private DNS zone can only select zones with four labels or fewer. For example, a.b.c.d is allowed, while a.b.c.d.e is not allowed.
 
 ## Automatic Network Ingress Configuration
 
