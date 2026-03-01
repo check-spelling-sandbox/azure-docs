@@ -12,7 +12,7 @@ ms.custom: sfi-ropc-nochange
 
 This tutorial shows how to mirror a Kafka broker into an Azure Event Hubs using Kafka Mirror Maker 1. 
 
-   ![Kafka MirrorMaker with Event Hubs](./media/event-hubs-kafka-mirror-maker-tutorial/evnent-hubs-mirror-maker1.png)
+   ![Kafka MirrorMaker with Event Hubs](./media/event-hubs-kafka-mirror-maker-tutorial/event-hubs-mirror-maker1.png)
 
 > [!NOTE]
 > This sample is available on [GitHub](https://github.com/Azure/azure-event-hubs-for-kafka/tree/master/tutorials/mirror-maker)
