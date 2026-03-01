@@ -161,7 +161,7 @@ This section at the bottom of the sheet shows the percentile value used for all 
 
 You might have a situation where you know that you can't set a bandwidth of more than x Mbps for Site Recovery replication. You can use the tool to input available bandwidth (by using the -Bandwidth parameter during report generation) and get the achievable RPO in minutes. With this achievable RPO value, you can decide whether you need to provision additional bandwidth or you're satisfied with a disaster recovery solution with this RPO.
 
-:::image type="content" source="media/hyper-v-deployment-planner-analyze-report/achivable-rpo-h2a.png" alt-text="Screenshot of Achievable RPO.":::
+:::image type="content" source="media/hyper-v-deployment-planner-analyze-report/achievable-rpo-h2a.png" alt-text="Screenshot of Achievable RPO.":::
 
 ## VM-storage placement recommendation 
 
