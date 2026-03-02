@@ -1,2 +1,1 @@
-[^/]\.PNG$
-^articles/active-directory-b2c/media/.*png$
+skip-everything
